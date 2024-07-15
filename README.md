@@ -7,6 +7,7 @@ Retrieval-Augmented Generation (RAG) is the process of optimizing the output of 
 
 # Challenges of LLMs 
 Known challenges of LLMs include:
+
 •	Presenting false information when it does not have the answer.
 
 •	Presenting out-of-date or generic information when the user expects a specific, current response.
@@ -28,7 +29,7 @@ RAG is one approach to solving some of these challenges. It redirects the LLM to
 
 •	More developer controls
 
-# Working precedure of Retrieval-Augmented Generation
+# Working procedure of Retrieval-Augmented Generation
 
 Without RAG, the LLM takes the user input and creates a response based on information it was trained on—or what it already knows. With RAG, an information retrieval component is introduced that utilizes the user input to first pull information from a new data source. The user query and the relevant information are both given to the LLM. The LLM uses the new knowledge and its training data to create better responses. The following sections provide an overview of the process.
 
