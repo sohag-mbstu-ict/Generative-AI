@@ -5,7 +5,7 @@ def _get_model_args(parser: argparse.ArgumentParser) -> None:
     parser.add_argument(
         "--pretrained_model_name_or_path",
         type=str,
-        default="/workspace/pretrained_model/",
+        default=None,
         required=True,
         help="Path to pretrained model or model identifier from huggingface.co/models.",
     )

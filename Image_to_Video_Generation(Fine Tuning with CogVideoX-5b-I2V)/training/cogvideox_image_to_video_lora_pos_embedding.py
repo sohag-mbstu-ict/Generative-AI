@@ -105,7 +105,7 @@ The model was trained using [CogVideoX Factory](https://github.com/a-r-r-o-w/cog
 
 ## Usage
 
-Requires the [ðŸ§¨ Diffusers library](https://github.com/huggingface/diffusers) installed.
+Requires the [í ¾í·¨ Diffusers library](https://github.com/huggingface/diffusers) installed.
 
 ```py
 import torch
@@ -225,8 +225,15 @@ def run_validation(
         revision=args.revision,
         variant=args.variant,
         torch_dtype=weight_dtype,
-    )
-
+    ).to("cuda")
+    
+    # del pipe.transformer.patch_embed.pos_embedding
+    if hasattr(pipe.transformer.patch_embed, "pos_embedding"):
+        del pipe.transformer.patch_embed.pos_embedding
+    else:
+        print("-------------------------------------------------- pos_embedding does not exist")
+    pipe.transformer.patch_embed.use_learned_positional_embeddings = False
+    pipe.transformer.config.use_learned_positional_embeddings = False
     if args.enable_slicing:
         pipe.vae.enable_slicing()
     if args.enable_tiling:
@@ -262,6 +269,7 @@ def run_validation(
     gc.collect()
     torch.cuda.empty_cache()
     torch.cuda.synchronize(accelerator.device)
+    print("(accelerator.device) : ",accelerator.device)
 
 
 class CollateFunction:
@@ -373,12 +381,11 @@ def main(args):
 
     # These changes will also be required when trying to run inference with the trained lora
     if args.ignore_learned_positional_embeddings:
-        try:
-            del transformer.patch_embed.pos_embedding
-            print("Successfully deleted 'transformer.patch_embed.pos_embedding'.")
-        except Exception as e:
-            print(f"An error occurred: {e}")
-
+        # del transformer.patch_embed.pos_embedding
+        if hasattr(pipe.transformer.patch_embed, "pos_embedding"):
+            del pipe.transformer.patch_embed.pos_embedding
+        else:
+            print("-------------------------------------------------- pos_embedding does not exist")
         transformer.patch_embed.use_learned_positional_embeddings = False
         transformer.config.use_learned_positional_embeddings = False
 
@@ -953,7 +960,7 @@ def main(args):
             revision=args.revision,
             variant=args.variant,
             torch_dtype=weight_dtype,
-        )
+        ).to("cuda")
         pipe.scheduler = CogVideoXDPMScheduler.from_config(pipe.scheduler.config)
 
         if args.enable_slicing:

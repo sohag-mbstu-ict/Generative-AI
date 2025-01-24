@@ -23,11 +23,11 @@ pipe.scheduler = CogVideoXDPMScheduler.from_config(pipe.scheduler.config)
 #     adapter_name="cogvideox-lora"
 # )
 
-weight_path = "/workspace/output/cogvideox-lora__optimizer_adam__steps_500__lr-schedule_cosine_with_restarts__learning-rate_1e-4"
+weight_path = "/workspace/fine_tuned_weight_500"
 # Load LoRA fine-tuned weights
 pipe.load_lora_weights(
     weight_path,
-    weight_name="pytorch_lora_weights.safetensors",
+    weight_name="hug_500_2_gpu.safetensors",
     adapter_name="cogvideox-lora"
 )
 
@@ -37,7 +37,7 @@ pipe.set_adapters(["cogvideox-lora"], [1])  # Adjust scaling factor if needed
 
 # Load the input image
 # image = load_image("/workspace/images/hugg__.jpg")
-image = load_image("/workspace/cogvideox/Image_to_Video_Generation/images/kiss10.png")
+image = load_image("/workspace/cogvideox/Image_to_Video_Generation/images/hugg__.jpg")
 
 
 # Define the validation prompt
@@ -50,7 +50,7 @@ image = load_image("/workspace/cogvideox/Image_to_Video_Generation/images/kiss10
 # validation_prompt = "A young child wearing a red shirt and a Santa hat and older man who is also wearing a Santa hat standing close to each other. A young child wearing a red shirt and a Santa hat, hugging an older man who is also wearing a Santa hat. The background is decorated with festive lights and sparkles, creating a cheerful and festive atmosphere. The child appears to be happy and excited, while the older man looks content and joyful. The overall scene conveys the spirit of Christmas and the joy of spending time with loved ones during the holiday season."
 # validation_prompt = "One man and one woman standing close to each other. They move slowly toward each other and hug with each other. The background remains calm and consistent, emphasizing their happy expressions and body movement as they hug."
 # validation_prompt = "Make a gentle hug video. The background remains calm and consistent, emphasizing their hug to each other"
-validation_prompt = "Create a video featuring a man and a woman standing close together in a casual setting. The woman leans in gently to kiss the man on the cheek, capturing a tender and affectionate moment. The atmosphere is warm and intimate, highlighting the connection between the two."
+validation_prompt = "Make a gentle hug video"
 # Run inference
 video = pipe(
     image=image, 
@@ -63,4 +63,4 @@ video = pipe(
 ).frames[0]
 
 # Export the generated video
-export_to_video(video, "/workspace/output_video/2_gp.mp4", fps=8)
+export_to_video(video, "2_gpu_1_4.mp4", fps=8)

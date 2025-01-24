@@ -4,7 +4,7 @@ from diffusers.utils import export_to_video, load_image
 """
 pip uninstall torch
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
-pip install --upgrade transformers accelerate diffusers imageio-ffmpeg opencv-python  
+pip install --upgrade transformers accelerate diffusers imageio-ffmpeg opencv-python 
 pip install --upgrade peft imageio einops wandb pandas decord protobuf sentencepiece
 """
 prompt = "Generates a video of Santa Claus on the right side of the photo presenting a gift from his hand to the person on the left, while preserving their original features and expressions."
