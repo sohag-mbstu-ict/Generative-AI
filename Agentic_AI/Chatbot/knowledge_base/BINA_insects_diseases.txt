@@ -1,0 +1,49 @@
+
+BINA Insects & Diseases List
+
+1. Crop Name: Brinjal (বেগুন)
+   Diseases Name:
+   - Mealy bug (মিলি বোগ)
+   - Mosaic Virus (মোজাইক ভাইরাস)
+   - Shoot and fruit borer (ডগা ও ফলি ছিদ্রকারী পাকা)
+   - Bacterial Wilt (ব্যাকটেরিয়াল উইল্ট)
+   - Leaf spot (পাতার দাগ)
+
+2. Crop Name: Potato (আলু)
+   Diseases Name:
+   - Late Blight (আলুর মড়ক)
+   - Bacterial wilt (ব্যাকটেরিয়াল উইল্ট)
+   - Leaf curl virus (পাতা কুঁকড়ানো ভাইরাস)
+   - Scab disease (স্ক্যাব রোগ)
+
+3. Crop Name: Rice (ধান)
+   Diseases Name:
+   - Neck Blast (নক ব্লাস্ট)
+   - Node Blast (নোড ব্লাস্ট)
+   - Leaf Blast (পাতায় ব্লাস্ট)
+   - Stem borer Moth (মাজরা পাকার পোকা)
+   - Stem Borer Larva (মাজরা পাকার লার্ভা)
+   - False Smut (ভুয়া ঝুলি)
+   - Rice bug (ধানের গন্ধী পোকা)
+   - Deadheart (মরা ডগা)
+   - Sheath rot (সীথ রট)
+   - BPH (বাদামী গাছ ফড়িং)
+   - Stem Borer Egg Mass (মাজরা পাকার ডিমের গাদা)
+
+4. Crop Name: Maize (ভুট্টা)
+   Diseases Name:
+   - Leaf Blight (পাতা ঝলসানো রোগ)
+   - Cutworms in Maize (ভুট্টায় কাটুই পোকা)
+   - Fall army-worm in maize (ভুট্টায় ফল আর্মিওয়ার্ম)
+
+5. Crop Name: Chilli (মরিচ)
+   Diseases Name:
+   - Fusarium wilt (নষ্টিয়ে পড়া রোগ)
+   - Leaf curl virus (পাতা কুঁকড়ানো ভাইরাস)
+   - Dieback (আগা মারা রোগ)
+
+6. Crop Name: Wheat (গম)
+   Diseases Name:
+   - Wheat blast (গমের ব্লাস্ট রোগ)
+   - Leaf blight (পাতা ঝলসানো রোগ)
+   - Foot and root rot (গমের গাড়া পঁচা রোগ)
