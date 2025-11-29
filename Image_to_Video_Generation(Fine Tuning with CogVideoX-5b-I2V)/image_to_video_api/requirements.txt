@@ -1,0 +1,7 @@
+diffusers==0.32.2
+safetensors==0.5.3
+torch==2.6.0
+Django==5.1.7
+django-rest-framework==0.1.0
+djangorestframework==3.16.0
+pillow==11.2.0

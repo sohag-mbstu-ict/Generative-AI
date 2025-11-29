@@ -1,0 +1,177 @@
+[
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "What is scab disease in citrus fruits?"},
+      {"role": "assistant", "content": "Scab diseases occur in the fruit. It causes rotten fruits in the end."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "How to control scab disease in citrus?"},
+      {"role": "assistant", "content": "Do not give extra irrigation\n2. Apply balanced fertilizer\n3. Use resistant varieties\n4. Using disease free seeds"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "Which pesticide is used for scab disease in citrus?"},
+      {"role": "assistant", "content": "Vegimax plus 1 ml per liter water"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "What is mealy bug in citrus?"},
+      {"role": "assistant", "content": "White cotton-like insects crowded together on leaves, stems, flowers, fruits. Yellowing and curling of leaves. Stunted growth of plants."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "How to control mealy bug in citrus?"},
+      {"role": "assistant", "content": "Mild soapy water is used\n2. Using a thatched roof\n3. In the beginning the insects are killed by hand"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "Which pesticide is used for mealy bug in citrus?"},
+      {"role": "assistant", "content": "Krishokbondhu 200 SL 50 ml\n2. Krishokbondhu Plus 70 WDG 2 gm per 10 liters of water"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "What is canker disease in citrus?"},
+      {"role": "assistant", "content": "Canker diseases occur in the leaves, branches and fruits. It appears with black spot in the corresponding area."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "How to control canker disease?"},
+      {"role": "assistant", "content": "Use of intolerant seedling\n2. Pruning dead branches, fruit pods, thick branches\n3. Trees should be planted thinly\n4. The leaves should be fully grown"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "Which pesticide is used for canker disease?"},
+      {"role": "assistant", "content": "Vegimax plus 1 ml per liter water"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "What are the symptoms of aphid attack in plants?"},
+      {"role": "assistant", "content": "Curled and deformed leaves. Small insects under the leaves and shoots. Stunted growth."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "How to control aphid naturally?"},
+      {"role": "assistant", "content": "Mild soapy water\n2. Mechanical removal\n3. Neem extract\n4. Yellow sticky trap\n5. Biological control using ladybugs and parasitic wasps"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "Which pesticide is used for aphid control?"},
+      {"role": "assistant", "content": "Irad 55 EC, Genephos 48 EC, Genefen 20 EC, Krishokbondhu 200 SL, Ayesha 3 WG, Riyadh 6 WDG"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "What is leaf miner and how it affects citrus?"},
+      {"role": "assistant", "content": "Leaf miner is caused by insect larvae. It damages leaves by tunneling through them."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "How to control leaf miner in citrus?"},
+      {"role": "assistant", "content": "Clean cultivation\n2. Remove and burn affected leaves\n3. Neem oil spray\n4. Use of sticky yellow traps\n5. Use of organic pesticides"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "Which pesticides are used for leaf miner control?"},
+      {"role": "assistant", "content": "Ayesha 3 WDG, Riyadh 6 WDG, Sega 10 SL, Krishokbondhu 200 SL"}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "What is blossom end rot in gourd plants?"},
+      {"role": "assistant", "content": "Blossom end rot is a disease that causes rotting at the blossom end of young gourds and gradually spreads to the whole fruit."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "What are the symptoms of blossom end rot?"},
+      {"role": "assistant", "content": "The disease starts with rot at the bottom of the fruit, spreading to the entire fruit. It is often seen in acidic or calcium-deficient soils."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "How can I identify blossom end rot in cucurbit crops?"},
+      {"role": "assistant", "content": "Look for soft rotting at the base of the fruit that worsens over time. This usually affects young gourds and pumpkins."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "What causes blossom end rot in gourds?"},
+      {"role": "assistant", "content": "Causes include poor pollination, insect damage, potassium deficiency, water stress, lack of light, pesticide overuse, injury, mosaic virus, and excess water."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "Why do my gourd fruits rot from the bottom?"},
+      {"role": "assistant", "content": "It may be due to blossom end rot, caused by calcium deficiency, poor pollination, or excessive water accumulation."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "What are the factors that increase blossom end rot?"},
+      {"role": "assistant", "content": "High acidity in soil, calcium and potassium deficiency, poor air circulation, pest attack, or excessive irrigation can increase this disease."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "How to prevent blossom end rot in pumpkin plants?"},
+      {"role": "assistant", "content": "Use yellow sticky traps, pheromone traps for flies, apply phosphorous and potassium, avoid shaded cultivation, and apply dolomite every few years."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "What are some remedies for blossom end rot in cucurbits?"},
+      {"role": "assistant", "content": "Ensure good soil nutrition, moderate irrigation, avoid fruit injury, and rotate crops to reduce disease risk."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "Which insecticides or fungicides help with blossom end rot?"},
+      {"role": "assistant", "content": "Agben 50% F (1g/liter) and Arniline 8% WP (400g) are commonly used."}
+    ]
+  },
+  {
+    "messages": [
+      {"role": "system", "content": "You are an agricultural expert assistant."},
+      {"role": "user", "content": "Can blossom end rot be cured with fertilizers?"},
+      {"role": "assistant", "content": "Using balanced fertilizers with calcium, phosphorous, and potassium can help prevent and reduce blossom end rot."}
+    ]
+  }
+]

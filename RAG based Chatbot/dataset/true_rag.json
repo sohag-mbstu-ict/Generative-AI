@@ -1,0 +1,58 @@
+[
+  {
+    "id": "rooftop_001",
+    "title": "Introduction to Rooftop Gardening",
+    "category": "Urban Agriculture",
+    "tags": ["rooftop", "garden", "introduction", "urban"],
+    "content": "A rooftop garden is the scientific cultivation of flowers, fruits, and vegetables on the roof or balcony of a building. It allows city dwellers to utilize unused spaces for growing plants, producing food, and improving the natural environment."
+  },
+  {
+    "id": "rooftop_002",
+    "title": "Purpose of Rooftop Gardening",
+    "category": "Urban Agriculture",
+    "tags": ["purpose", "environment", "food", "aesthetics"],
+    "content": "The main purpose of rooftop gardening is to improve the natural environment, produce fresh food, and enhance the aesthetics of buildings. It also contributes to temperature regulation and urban greenery."
+  },
+  {
+    "id": "rooftop_003",
+    "title": "Locations for Rooftop Gardening",
+    "category": "Urban Agriculture",
+    "tags": ["location", "space", "balcony", "roof"],
+    "content": "Rooftop gardening can be done on roofs, balconies, verandas, ledges, or any open unused space. Even small spaces of 1–2 meters can be utilized for growing plants."
+  },
+  {
+    "id": "rooftop_004",
+    "title": "Benefits of Rooftop Gardening",
+    "category": "Urban Agriculture",
+    "tags": ["benefits", "greenery", "food", "temperature"],
+    "content": "Rooftop gardening provides multiple benefits, such as creating greenery in urban areas, producing fresh fruits and vegetables, regulating temperature, and improving the overall environment and aesthetics."
+  },
+  {
+    "id": "rooftop_005",
+    "title": "Types of Plants for Rooftop Gardens",
+    "category": "Urban Agriculture",
+    "tags": ["plants", "flowers", "vegetables", "fruits", "climbing"],
+    "content": "A variety of plants can be grown in rooftop gardens, including flowers, fruits, vegetables, and climbing plants. Selection depends on available space, sunlight, and maintenance capacity."
+  },
+  {
+    "id": "rooftop_006",
+    "title": "Rooftop Gardening as Hobby or Practical Activity",
+    "category": "Urban Agriculture",
+    "tags": ["hobby", "practical", "food production", "environment"],
+    "content": "Rooftop gardening is not just a hobby; it can also be used for practical purposes such as food production and environmental improvement. It provides both aesthetic enjoyment and functional benefits."
+  },
+  {
+    "id": "rooftop_007",
+    "title": "Size Considerations for Rooftop Gardens",
+    "category": "Urban Agriculture",
+    "tags": ["size", "space", "small", "large"],
+    "content": "The size of a rooftop garden depends on available space. It can be small, ranging from 1–2 meters, or it can cover the entire rooftop. Proper planning ensures efficient use of the area."
+  },
+  {
+    "id": "rooftop_008",
+    "title": "Famous People Example",
+    "category": "General Knowledge",
+    "tags": ["example", "Bill Gates", "Microsoft"],
+    "content": "Bill Gates is the founder of Microsoft. This is an example of a factual question that can be answered by a RAG-based system when retrieval provides the context."
+  }
+]

@@ -1,0 +1,100 @@
+{"tokens": ["Heavy", "Stem", "borer", "infestation", "observed", "in", "Potato", "field"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Signs", "of", "yellow", "rust", "found", "on", "Rice", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Signs", "of", "leaf", "spot", "found", "on", "Rice", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Heavy", "Stem", "borer", "infestation", "observed", "in", "Potato", "field"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Heavy", "Red", "spider", "mite", "infestation", "observed", "in", "Tomato", "field"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Apply", "DAP", "to", "Rice", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Signs", "of", "leaf", "spot", "found", "on", "Wheat", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Mustard", "is", "affected", "by", "yellow", "rust"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Signs", "of", "powdery", "mildew", "found", "on", "Wheat", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Red", "spider", "mite", "attacks", "Wheat"], "ner_tags": ["O", "O", "O", "O", "B-CROP"]}
+{"tokens": ["Apply", "Compost", "to", "Wheat", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Apply", "Urea", "to", "Rice", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Brinjal", "is", "affected", "by", "late", "blight"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Whitefly", "attacks", "Mustard"], "ner_tags": ["B-PEST", "O", "B-CROP"]}
+{"tokens": ["Brinjal", "is", "affected", "by", "leaf", "spot"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Heavy", "Aphids", "infestation", "observed", "in", "Potato", "field"], "ner_tags": ["O", "B-PEST", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Apply", "Potash", "to", "Brinjal", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Apply", "Compost", "to", "Brinjal", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Signs", "of", "yellow", "rust", "found", "on", "Rice", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Heavy", "Red", "spider", "mite", "infestation", "observed", "in", "Brinjal", "field"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Rice", "is", "affected", "by", "yellow", "rust"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Signs", "of", "powdery", "mildew", "found", "on", "Mustard", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Wheat", "is", "affected", "by", "late", "blight"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Rice", "is", "affected", "by", "leaf", "spot"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Heavy", "Stem", "borer", "infestation", "observed", "in", "Wheat", "field"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Apply", "Urea", "to", "Brinjal", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Signs", "of", "powdery", "mildew", "found", "on", "Potato", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Potato", "is", "affected", "by", "yellow", "rust"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Wheat", "is", "affected", "by", "leaf", "spot"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Tomato", "is", "affected", "by", "late", "blight"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Wheat", "is", "affected", "by", "yellow", "rust"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Stem", "borer", "attacks", "Tomato"], "ner_tags": ["O", "O", "O", "B-CROP"]}
+{"tokens": ["Stem", "borer", "attacks", "Mustard"], "ner_tags": ["O", "O", "O", "B-CROP"]}
+{"tokens": ["Heavy", "Aphids", "infestation", "observed", "in", "Wheat", "field"], "ner_tags": ["O", "B-PEST", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Apply", "DAP", "to", "Potato", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Heavy", "Stem", "borer", "infestation", "observed", "in", "Tomato", "field"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Potato", "is", "affected", "by", "yellow", "rust"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Stem", "borer", "attacks", "Tomato"], "ner_tags": ["O", "O", "O", "B-CROP"]}
+{"tokens": ["Wheat", "is", "affected", "by", "late", "blight"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Tomato", "is", "affected", "by", "late", "blight"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Signs", "of", "late", "blight", "found", "on", "Brinjal", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Apply", "DAP", "to", "Tomato", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Apply", "DAP", "to", "Rice", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Brinjal", "is", "affected", "by", "yellow", "rust"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Signs", "of", "late", "blight", "found", "on", "Brinjal", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Heavy", "Stem", "borer", "infestation", "observed", "in", "Tomato", "field"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Signs", "of", "powdery", "mildew", "found", "on", "Wheat", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Signs", "of", "leaf", "spot", "found", "on", "Rice", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Signs", "of", "late", "blight", "found", "on", "Mustard", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Heavy", "Stem", "borer", "infestation", "observed", "in", "Potato", "field"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Heavy", "Whitefly", "infestation", "observed", "in", "Wheat", "field"], "ner_tags": ["O", "B-PEST", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Heavy", "Whitefly", "infestation", "observed", "in", "Tomato", "field"], "ner_tags": ["O", "B-PEST", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Aphids", "attacks", "Mustard"], "ner_tags": ["B-PEST", "O", "B-CROP"]}
+{"tokens": ["Heavy", "Stem", "borer", "infestation", "observed", "in", "Wheat", "field"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Heavy", "Red", "spider", "mite", "infestation", "observed", "in", "Mustard", "field"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Apply", "Urea", "to", "Tomato", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Tomato", "is", "affected", "by", "late", "blight"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Signs", "of", "yellow", "rust", "found", "on", "Brinjal", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Mustard", "is", "affected", "by", "leaf", "spot"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Apply", "Urea", "to", "Mustard", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Apply", "Urea", "to", "Wheat", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Apply", "DAP", "to", "Rice", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Aphids", "attacks", "Mustard"], "ner_tags": ["B-PEST", "O", "B-CROP"]}
+{"tokens": ["Signs", "of", "late", "blight", "found", "on", "Tomato", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Apply", "Potash", "to", "Mustard", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Apply", "Compost", "to", "Potato", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Heavy", "Stem", "borer", "infestation", "observed", "in", "Potato", "field"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Signs", "of", "leaf", "spot", "found", "on", "Rice", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Aphids", "attacks", "Brinjal"], "ner_tags": ["B-PEST", "O", "B-CROP"]}
+{"tokens": ["Heavy", "Aphids", "infestation", "observed", "in", "Rice", "field"], "ner_tags": ["O", "B-PEST", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Tomato", "is", "affected", "by", "leaf", "spot"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Whitefly", "attacks", "Tomato"], "ner_tags": ["B-PEST", "O", "B-CROP"]}
+{"tokens": ["Apply", "DAP", "to", "Mustard", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Stem", "borer", "attacks", "Rice"], "ner_tags": ["O", "O", "O", "B-CROP"]}
+{"tokens": ["Rice", "is", "affected", "by", "yellow", "rust"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Heavy", "Red", "spider", "mite", "infestation", "observed", "in", "Tomato", "field"], "ner_tags": ["O", "O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Apply", "Compost", "to", "Rice", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Potato", "is", "affected", "by", "powdery", "mildew"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Aphids", "attacks", "Brinjal"], "ner_tags": ["B-PEST", "O", "B-CROP"]}
+{"tokens": ["Signs", "of", "yellow", "rust", "found", "on", "Tomato", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Apply", "Potash", "to", "Tomato", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Signs", "of", "late", "blight", "found", "on", "Brinjal", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Signs", "of", "leaf", "spot", "found", "on", "Rice", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Heavy", "Stem", "borer", "infestation", "observed", "in", "Brinjal", "field"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Apply", "DAP", "to", "Tomato", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Signs", "of", "late", "blight", "found", "on", "Potato", "leaves"], "ner_tags": ["O", "O", "O", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Brinjal", "is", "affected", "by", "leaf", "spot"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Apply", "Compost", "to", "Wheat", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Stem", "borer", "attacks", "Potato"], "ner_tags": ["O", "O", "O", "B-CROP"]}
+{"tokens": ["Heavy", "Aphids", "infestation", "observed", "in", "Mustard", "field"], "ner_tags": ["O", "B-PEST", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Brinjal", "is", "affected", "by", "leaf", "spot"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Brinjal", "is", "affected", "by", "powdery", "mildew"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Stem", "borer", "attacks", "Potato"], "ner_tags": ["O", "O", "O", "B-CROP"]}
+{"tokens": ["Heavy", "Aphids", "infestation", "observed", "in", "Wheat", "field"], "ner_tags": ["O", "B-PEST", "O", "O", "O", "B-CROP", "O"]}
+{"tokens": ["Rice", "is", "affected", "by", "powdery", "mildew"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Mustard", "is", "affected", "by", "leaf", "spot"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Rice", "is", "affected", "by", "late", "blight"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Apply", "Potash", "to", "Brinjal", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
+{"tokens": ["Wheat", "is", "affected", "by", "leaf", "spot"], "ner_tags": ["B-CROP", "O", "O", "O", "O", "O"]}
+{"tokens": ["Apply", "Potash", "to", "Tomato", "to", "increase", "yield"], "ner_tags": ["O", "B-FERTILIZER", "O", "B-CROP", "O", "O", "O"]}
