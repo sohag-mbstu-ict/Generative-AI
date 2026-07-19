@@ -1,0 +1,2957 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe Dr. Chashi assistant greets users and introduces itself as an AI assistant for farmers and gardeners.\n\nQuestion:\nHi"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I am the Dr. Chashi AI Assistant. How can I help you today?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe Dr. Chashi assistant responds politely to user greetings and offers help related to crops and gardens.\n\nQuestion:\nHow are you?"
+      },
+      {
+        "role": "assistant",
+        "content": "I am fine, thank you. How can I assist you with your crops or garden?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nDr. Chashi Assistant is an AI assistant designed to help detect crop diseases and provide solutions for rooftop gardens and field crops.\n\nQuestion:\nWho are you?"
+      },
+      {
+        "role": "assistant",
+        "content": "I am the Dr. Chashi AI Assistant, designed to help detect crop diseases and provide solutions for rooftop gardens and field crops."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nDr. Chashi is an AI-powered mobile Android application designed to help farmers and gardeners detect diseases and pests in rooftop gardens and field crops. It is the first AI-based digital system of its kind in Bangladesh and provides practical guidance for crop management.\n\nQuestion:\nWhat is Dr. Chashi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dr. Chashi is an AI-powered mobile Android application that helps farmers and gardeners detect diseases and pests in rooftop gardens and field crops and provides practical guidance for crop management."
+      }
+    ]
+  },
+  {
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+    },
+    {
+      "role": "user",
+      "content": "Context:\nDr. Chashi supports crop disease detection.\n\nQuestion:\nWhat is the subscription price of medical treatment in Dhaka medical for dr Chashi users?"
+    },
+    {
+      "role": "assistant",
+      "content": "The information is not available in the provided data."
+    }
+  ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nDr. Chashi identifies diseases and pests in rooftop gardens and field crops, including tomato, cucumber, and banana. It provides actionable solutions such as fertilizer management, irrigation adjustments, and pest control strategies.\n\nQuestion:\nWhat does Dr. Chashi do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dr. Chashi identifies diseases and pests in rooftop gardens and field crops and provides actionable solutions such as fertilizer management, irrigation adjustments, and pest control strategies."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nDr. Chashi helps farmers and gardeners by detecting diseases and pests in rooftop gardens and field crops. It suggests practical solutions such as proper fertilizer use, irrigation management, and pest control methods to improve crop health and yield.\n\nQuestion:\nHow does the Dr. Chashi app help farmers and gardeners?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dr. Chashi helps farmers and gardeners by detecting diseases and pests in rooftop gardens and field crops and suggesting practical solutions such as proper fertilizer use, irrigation management, and pest control methods."
+      }
+    ]
+  },
+
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nDr. Chashi provides solutions for 41 major crops, including vegetables, fruits, and spices. The app helps users manage diseases and pests effectively, and detailed crop information is available within the app features.\n\nQuestion:\nWhich crops can Dr. Chashi provide solutions for?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dr. Chashi provides solutions for 41 major crops, including vegetables, fruits, and spices."
+      }
+    ]
+  },
+
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nDr. Chashi currently supports 41 major crops and provides guidance to manage diseases and pests effectively. Detailed crop information is available in the app features.\n\nQuestion:\nHow many crops are supported by the Dr. Chashi app?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dr. Chashi currently supports 41 major crops."
+      }
+    ]
+  },
+
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe Dr. Chashi application is available for Android users and can be downloaded from the Google Play Store.\n\nQuestion:\nWhere can I download the Dr. Chashi app?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can download the Dr. Chashi app from the Google Play Store on Android devices."
+      }
+    ]
+  },
+  
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi app. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYou can install the Dr. Chashi app by searching for it on the Google Play Store and downloading it to your Android phone. Once installed, you can use it to detect crop diseases and pests.\n\nQuestion:\nHow can I install Dr. Chashi on my Android device?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can install the Dr. Chashi app by searching for it on the Google Play Store and downloading it to your Android phone. Once installed, you can use it to detect crop diseases and pests."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi app. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nDr. Chashi app is completely free for all users across Bangladesh. However, you will need mobile data or an internet connection to access its features.\n\nQuestion:\nIs there any cost to use the Dr. Chashi app?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dr. Chashi app is completely free for all users across Bangladesh. However, you will need mobile data or an internet connection to access its features."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi app. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYou do not need to pay to use the Dr. Chashi app. It is completely free, but an active internet connection or mobile data is required to access all features.\n\nQuestion:\nDo I need to pay to use Dr. Chashi?"
+      },
+      {
+        "role": "assistant",
+        "content": "You do not need to pay to use the Dr. Chashi app. It is completely free, but an active internet connection or mobile data is required to access all features."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi app. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYou can get more information about the Dr. Chashi app by contacting its 24/7 helpline. The support team can guide you on app features, crop advice, and troubleshooting.\n\nQuestion:\nHow can I get more information about the Dr. Chashi app?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can get more information about the Dr. Chashi app by contacting its 24/7 helpline. The support team can guide you on app features, crop advice, and troubleshooting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi app. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, you can contact the Dr. Chashi 24/7 helpline to get assistance on app usage, crop management guidance, and answers to any questions.\n\nQuestion:\nIs there a helpline for Dr. Chashi users?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, you can contact the Dr. Chashi 24/7 helpline to get assistance on app usage, crop management guidance, and answers to any questions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for Genius Farms Limited (GFL). You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nGenius Farms Limited (GFL) is an IT-based software company that provides innovative solutions in technology and agriculture, both within Bangladesh and internationally.\n\nQuestion:\nWhat is Genius Farms Limited (GFL)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Genius Farms Limited (GFL) is an IT-based software company that provides innovative solutions in technology and agriculture, both within Bangladesh and internationally."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for Genius Farms Limited (GFL). You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nGenius Farms Limited (GFL) operates both locally and internationally, offering services such as software customization, mobile app development, brand promotion, the application of AI, IoT, and drone technology in agriculture, e-commerce solutions, production of learning documentaries, online and offline training programs, and management of agricultural supply chains.\n\nQuestion:\nWhat does Genius Farms Limited (GFL) do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Genius Farms Limited (GFL) operates both locally and internationally, offering services such as software customization, mobile app development, brand promotion, the application of AI, IoT, and drone technology in agriculture, e-commerce solutions, production of learning documentaries, online and offline training programs, and management of agricultural supply chains."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for Genius Farms Limited (GFL). You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nGenius Farms Limited (GFL) began its operations in 2020, and since then it has been actively providing technology-driven solutions and services both locally and internationally.\n\nQuestion:\nWhen did Genius Farms Limited (GFL) start its operations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Genius Farms Limited (GFL) began its operations in 2020, and since then it has been actively providing technology-driven solutions and services both locally and internationally."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for Genius Farms Limited (GFL). You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe office of Genius Farms Limited (GFL) is located at 572/K, Wasi Tower, ECB Chattar, Matikata, Dhaka-1206, Bangladesh.\n\nQuestion:\nWhere is the office of Genius Farms Limited (GFL)?"
+      },
+      {
+        "role": "assistant",
+        "content": "The office of Genius Farms Limited (GFL) is located at 572/K, Wasi Tower, ECB Chattar, Matikata, Dhaka-1206, Bangladesh."
+      }
+    ]
+  },
+
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about Dr. Chashi and Genius Farms Limited (GFL). You must ONLY answer using the provided context. If the answer is not explicitly in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNo context is provided about Elon Musk.\n\nQuestion:\nCan you tell me about Elon Musk?"
+      },
+      {
+        "role": "assistant",
+        "content": "The information is not available in the provided data."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural spray drones. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nAgricultural spray drone pilot services are currently available in Narsingdi and Manikganj. To book a service or get more details, please contact 01741122755.\n\nQuestion:\nWhere and how can agricultural spray drone services be obtained?"
+      },
+      {
+        "role": "assistant",
+        "content": "Agricultural spray drone pilot services are currently available in Narsingdi and Manikganj. To book a service or get more details, please contact 01741122755."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural spray drones. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nTo purchase an agricultural spray drone, please contact 01741122755 for sales information and guidance on available models.\n\nQuestion:\nI want to buy an agricultural drone. Where can I get it?"
+      },
+      {
+        "role": "assistant",
+        "content": "To purchase an agricultural spray drone, please contact 01741122755 for sales information and guidance on available models."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural spray drones. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nSpray drones in agriculture offer multiple benefits: they can efficiently spread fertilizers and seeds, spray water, and apply all types of pesticides across fields, saving time and labor while improving crop coverage.\n\nQuestion:\nWhat benefits can be obtained from using spray drones in agriculture?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spray drones in agriculture offer multiple benefits: they can efficiently spread fertilizers and seeds, spray water, and apply all types of pesticides across fields, saving time and labor while improving crop coverage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural spray drones. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe cost of agricultural drone spraying services is approximately BDT 300-500 per bigha. Farmers need to purchase the pesticides themselves, as the service covers only the spraying operation.\n\nQuestion:\nWhat is the cost of agricultural spray drone services?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cost of agricultural drone spraying services is approximately BDT 300-500 per bigha. Farmers need to purchase the pesticides themselves, as the service covers only the spraying operation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural spray drones. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nDrone spraying typically takes between five to ten minutes per bigha of land, depending on field size, terrain, and the type of spray being applied.\n\nQuestion:\nHow much time does agricultural drone spraying take?"
+      },
+      {
+        "role": "assistant",
+        "content": "Drone spraying typically takes between five to ten minutes per bigha of land, depending on field size, terrain, and the type of spray being applied."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural spray drones. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe price of an agricultural spray drone in Bangladesh ranges from BDT 300,000 to 400,000. These drones are assembled locally using Chinese components, offering reliable performance for crop spraying tasks.\n\nQuestion:\nWhat is the price of an agricultural spray drone?"
+      },
+      {
+        "role": "assistant",
+        "content": "The price of an agricultural spray drone in Bangladesh ranges from BDT 300,000 to 400,000. These drones are assembled locally using Chinese components, offering reliable performance for crop spraying tasks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for soil sensors. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe price of a soil sensor generally ranges from BDT 40,000 to 80,000, depending on the sensor type, features, and measurement capabilities.\n\nQuestion:\nWhat is the price of a soil sensor?"
+      },
+      {
+        "role": "assistant",
+        "content": "The price of a soil sensor generally ranges from BDT 40,000 to 80,000, depending on the sensor type, features, and measurement capabilities."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for soil sensors. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nA soil sensor can measure key soil parameters such as nitrogen, phosphorus, potassium (NPK), soil moisture, temperature, pH level, and salinity, helping farmers make informed decisions.\n\nQuestion:\nWhat parameters does a soil sensor indicate?"
+      },
+      {
+        "role": "assistant",
+        "content": "A soil sensor can measure key soil parameters such as nitrogen, phosphorus, potassium (NPK), soil moisture, temperature, pH level, and salinity, helping farmers make informed decisions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for soil sensors. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nA soil sensor typically takes about 10 to 15 minutes to analyze and determine soil components, depending on the device and testing conditions.\n\nQuestion:\nHow long does it take to determine soil components using a soil sensor?"
+      },
+      {
+        "role": "assistant",
+        "content": "A soil sensor typically takes about 10 to 15 minutes to analyze and determine soil components, depending on the device and testing conditions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural spray drones. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNo context provided about spray drones making coffee.\n\nQuestion:\nCan spray drones make coffee?"
+      },
+      {
+        "role": "assistant",
+        "content": "The information is not available in the provided data."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for soil sensors. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNo context provided about soil sensors predicting weather.\n\nQuestion:\nCan a soil sensor predict the weather?"
+      },
+      {
+        "role": "assistant",
+        "content": "The information is not available in the provided data."
+      }
+    ]
+  },
+  
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for soil sensors and IoT technologies in agriculture. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nSoil sensor testing generally provides an accuracy level of approximately 80% to 95%, which is sufficient for practical agricultural decision-making.\n\nQuestion:\nWhat is the accuracy of soil sensor testing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Soil sensor testing generally provides an accuracy level of approximately 80% to 95%, which is sufficient for practical agricultural decision-making."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for soil sensors and IoT technologies in agriculture. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nSoil sensor services can be obtained by directly contacting 01741122755 for availability, pricing details, and service support.\n\nQuestion:\nHow can we obtain soil sensor services?"
+      },
+      {
+        "role": "assistant",
+        "content": "Soil sensor services can be obtained by directly contacting 01741122755 for availability, pricing details, and service support."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for weather and agricultural forecasts. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYou can receive advance information about weather conditions such as rain, storms, fog, cold, and heat. The Dr. Chashi app provides detailed weather forecasts for up to the next seven days to help with planning agricultural activities.\n\nQuestion:\nCan I know in advance about rain, storms, fog, cold, or heat?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can receive advance information about weather conditions such as rain, storms, fog, cold, and heat. The Dr. Chashi app provides detailed weather forecasts for up to the next seven days to help with planning agricultural activities."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for weather and agricultural forecasts. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nWeather forecasts and early warning alerts are sent directly to your mobile phone through the Dr. Chashi app, provided the application is installed and you have an active internet connection.\n\nQuestion:\nHow will I receive weather forecasts?"
+      },
+      {
+        "role": "assistant",
+        "content": "Weather forecasts and early warning alerts are sent directly to your mobile phone through the Dr. Chashi app, provided the application is installed and you have an active internet connection."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for weather and agricultural forecasts. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYou can receive advance warnings along with advisory guidance on potential agricultural disasters. These alerts help farmers take preventive actions to reduce crop damage and losses.\n\nQuestion:\nCan I get advance warnings and advice on agricultural disasters?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can receive advance warnings along with advisory guidance on potential agricultural disasters. These alerts help farmers take preventive actions to reduce crop damage and losses."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for Good Agricultural Practices (GAP) in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe standards of Good Agricultural Practices in Bangladesh focus on: 1) producing safe fruits and vegetables, 2) ensuring high-quality agricultural products, 3) maintaining proper environmental management, and 4) protecting workers' health, safety, and overall welfare.\n\nQuestion:\nWhat are the standards of Good Agricultural Practices in Bangladesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "The standards of Good Agricultural Practices in Bangladesh focus on: 1) producing safe fruits and vegetables, 2) ensuring high-quality agricultural products, 3) maintaining proper environmental management, and 4) protecting workers' health, safety, and overall welfare."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for Good Agricultural Practices (GAP) in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe four main pillars of Good Agricultural Practices are: 1) food safety and improved product quality, 2) economic sustainability for farmers, 3) environmental sustainability, and 4) social acceptability, which includes fair labor practices and community responsibility.\n\nQuestion:\nWhat are the four main pillars of Good Agricultural Practices?"
+      },
+      {
+        "role": "assistant",
+        "content": "The four main pillars of Good Agricultural Practices are: 1) food safety and improved product quality, 2) economic sustainability for farmers, 3) environmental sustainability, and 4) social acceptability, which includes fair labor practices and community responsibility."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for Good Agricultural Practices (GAP) in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nFollowing Good Agricultural Practices involves: 1) testing soil and irrigation water before crop cultivation, 2) using organic fertilizers and organic pesticides, 3) taking preventive measures to avoid contamination during harvesting and post-harvest handling, and 4) ensuring that fruits and vegetables produced are safe and healthy for consumers.\n\nQuestion:\nWhat needs to be done while following Good Agricultural Practices?"
+      },
+      {
+        "role": "assistant",
+        "content": "Following Good Agricultural Practices involves: 1) testing soil and irrigation water before crop cultivation, 2) using organic fertilizers and organic pesticides, 3) taking preventive measures to avoid contamination during harvesting and post-harvest handling, and 4) ensuring that fruits and vegetables produced are safe and healthy for consumers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for Good Agricultural Practices (GAP) in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNo specific context provided about additional GAP responsibilities.\n\nQuestion:\nWhat are the responsibilities of GAP for developers, scientist and teacher?"
+      },
+      {
+        "role": "assistant",
+        "content": "The information is not available in the provided data."
+      }
+    ]
+  },
+  
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for Good Agricultural Practices (GAP) in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe responsibilities of GAP farmers include: 1) understanding and strictly following all rules, protocols, regulations, laws, and guidelines of Good Agricultural Practices; 2) applying these rules in the cultivation of selected GAP partner crops to ensure safe and nutritious food production while protecting the environment, ensuring social responsibility, and safeguarding workers' health; 3) maintaining proper knowledge about the history and condition of the selected land and surrounding areas; 4) testing soil and irrigation water before cultivation and applying fertilizers based on expert advice, with priority given to treated organic fertilizers; 5) using pollution-free and safe water for irrigation and cleaning harvested crops; 6) applying only approved pesticides at the correct dose, time, and method, with priority given to organic pesticides; 7) keeping the farm environment clean and ensuring proper sanitation and waste management to protect workers' health; 8) providing first-aid facilities, toilet facilities, and safe drinking water for all workers; 9) harvesting crops at the appropriate time and in the correct manner according to crop maturity indexes; 10) using organic and environmentally friendly pest control methods first, and applying government-approved pesticides only as a last resort while observing the required waiting period; 11) ensuring that post-harvest processing areas, materials, and water are free from contamination and follow proper guidelines; 12) cleaning, sorting, grading, and packaging products properly after harvesting; 13) maintaining personal hygiene of workers and strengthening farm biosecurity measures; 14) cleaning and properly storing tools, machinery, and equipment after farm work; 15) maintaining written records of all farm management and cultivation activities in the GAP farmer register or logbook for auditing; 16) obtaining GAP certification by following approved procedures to market agricultural products; and 17) seeking regular advice and guidance from trained GAP agricultural officers and partner officials for proper cultivation and marketing.\n\nQuestion:\nWhat are the responsibilities of GAP farmers?"
+      },
+      {
+        "role": "assistant",
+        "content": "The responsibilities of GAP farmers include: 1) understanding and strictly following all rules, protocols, regulations, laws, and guidelines of Good Agricultural Practices; 2) applying these rules in the cultivation of selected GAP partner crops to ensure safe and nutritious food production while protecting the environment, ensuring social responsibility, and safeguarding workers' health; 3) maintaining proper knowledge about the history and condition of the selected land and surrounding areas; 4) testing soil and irrigation water before cultivation and applying fertilizers based on expert advice, with priority given to treated organic fertilizers; 5) using pollution-free and safe water for irrigation and cleaning harvested crops; 6) applying only approved pesticides at the correct dose, time, and method, with priority given to organic pesticides; 7) keeping the farm environment clean and ensuring proper sanitation and waste management to protect workers' health; 8) providing first-aid facilities, toilet facilities, and safe drinking water for all workers; 9) harvesting crops at the appropriate time and in the correct manner according to crop maturity indexes; 10) using organic and environmentally friendly pest control methods first, and applying government-approved pesticides only as a last resort while observing the required waiting period; 11) ensuring that post-harvest processing areas, materials, and water are free from contamination and follow proper guidelines; 12) cleaning, sorting, grading, and packaging products properly after harvesting; 13) maintaining personal hygiene of workers and strengthening farm biosecurity measures; 14) cleaning and properly storing tools, machinery, and equipment after farm work; 15) maintaining written records of all farm management and cultivation activities in the GAP farmer register or logbook for auditing; 16) obtaining GAP certification by following approved procedures to market agricultural products; and 17) seeking regular advice and guidance from trained GAP agricultural officers and partner officials for proper cultivation and marketing."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural training programs in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe training programs cover a wide range of topics, including: 1) Agriculture and modern farming practices; 2) Environment and climate-related issues; 3) Agribusiness and farm-based entrepreneurship; 4) Crop diseases and pests along with their identification and solutions; and 5) Soil management, fertilizers, and proper use of pesticides.\n\nQuestion:\nWhat types of training are provided?"
+      },
+      {
+        "role": "assistant",
+        "content": "The training programs cover a wide range of topics, including: 1) Agriculture and modern farming practices; 2) Environment and climate-related issues; 3) Agribusiness and farm-based entrepreneurship; 4) Crop diseases and pests along with their identification and solutions; and 5) Soil management, fertilizers, and proper use of pesticides."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural training programs in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe training is conducted offline. Currently, there are no online training options available.\n\nQuestion:\nIs the training online or offline?"
+      },
+      {
+        "role": "assistant",
+        "content": "The training is conducted offline. Currently, there are no online training options available."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural training programs in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nIf you want to receive training or need further information, please contact 01741122755 directly.\n\nQuestion:\nWhere should I contact if I want to receive training?"
+      },
+      {
+        "role": "assistant",
+        "content": "If you want to receive training or need further information, please contact 01741122755 directly."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural training programs in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe registration fee for the training depends on the specific training topic. For exact fee details, please contact 01741122755 directly.\n\nQuestion:\nWhat is the registration fee for training?"
+      },
+      {
+        "role": "assistant",
+        "content": "The registration fee for the training depends on the specific training topic. For exact fee details, please contact 01741122755 directly."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural training programs in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe duration of the training varies depending on the training topic. To know the exact duration, please contact 01741122755 directly.\n\nQuestion:\nWhat is the duration of the training?"
+      },
+      {
+        "role": "assistant",
+        "content": "The duration of the training varies depending on the training topic. To know the exact duration, please contact 01741122755 directly."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for fertilizer management in fruit crop cultivation in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nIn malta (sweet orange) cultivation, fertilizer management should be done based on the age of the plant. About 15-20 days before planting, each planting pit should be prepared by thoroughly mixing well-decomposed cow dung, TSP, MOP, zinc, and boric acid with the soil. As the plant grows older, the quantity of fertilizer should be gradually increased. Fertilizers should be applied in three split applications each year to ensure proper nutrient availability and healthy plant growth.\n\nQuestion:\nI want to know about fertilizer management in malta (sweet orange) cultivation."
+      },
+      {
+        "role": "assistant",
+        "content": "In malta (sweet orange) cultivation, fertilizer management should be done based on the age of the plant. About 15-20 days before planting, each planting pit should be prepared by thoroughly mixing well-decomposed cow dung, TSP, MOP, zinc, and boric acid with the soil. As the plant grows older, the quantity of fertilizer should be gradually increased. Fertilizers should be applied in three split applications each year to ensure proper nutrient availability and healthy plant growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for fertilizer management in fruit crop cultivation in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, fertilizer can be applied during the rainy season. However, if rainfall is low or irregular, fertilizers should be applied in small amounts during the morning or afternoon. Applying a large amount of fertilizer at once is not recommended, as heavy rain may wash nutrients away before plants can absorb them.\n\nQuestion:\nIs it correct to apply fertilizer during the rainy season?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, fertilizer can be applied during the rainy season. However, if rainfall is low or irregular, fertilizers should be applied in small amounts during the morning or afternoon. Applying a large amount of fertilizer at once is not recommended, as heavy rain may wash nutrients away before plants can absorb them."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for fertilizer management in fruit crop cultivation in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nDuring the rainy season, compost, cow dung, TSP, MOP, and bio-fertilizers are the most effective fertilizers. Urea should be used in smaller quantities because it dissolves quickly and can be easily washed away by rain, reducing its effectiveness.\n\nQuestion:\nWhich fertilizers are most effective during the rainy season?"
+      },
+      {
+        "role": "assistant",
+        "content": "During the rainy season, compost, cow dung, TSP, MOP, and bio-fertilizers are the most effective fertilizers. Urea should be used in smaller quantities because it dissolves quickly and can be easily washed away by rain, reducing its effectiveness."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for fertilizer management in agricultural crops in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nLiquid fertilizer is a type of fertilizer that is mixed with water and applied directly to plant leaves or soil. It is quickly absorbed by plants and provides nutrients rapidly. Liquid fertilizers can be applied as a foliar spray or through irrigation systems. However, excessive or improper application may damage plant leaves or roots, so recommended doses should always be followed.\n\nQuestion:\nI want to know about liquid fertilizer."
+      },
+      {
+        "role": "assistant",
+        "content": "Liquid fertilizer is a type of fertilizer that is mixed with water and applied directly to plant leaves or soil. It is quickly absorbed by plants and provides nutrients rapidly. Liquid fertilizers can be applied as a foliar spray or through irrigation systems. However, excessive or improper application may damage plant leaves or roots, so recommended doses should always be followed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for fertilizer management in agricultural crops in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nFor dwarf coconut seedlings, at planting time 2-3 kg of well-decomposed cow dung or compost should be applied per pit. Nitrogen fertilizer (urea) should be applied at 20-30 g in 2-3 split doses around the seedling. Phosphorus fertilizer (SSP or TSP) at 20-25 g should be mixed into the pit during planting. Potash fertilizer (MOP or KCl) at 15-20 g should be mixed with the soil beside the seedling. If zinc or boron deficiency is observed, a small amount may be applied to the pit or as a foliar spray. After fertilizer application, the soil should be watered thoroughly.\n\nQuestion:\nWhat is the fertilizer dose for dwarf coconut seedlings?"
+      },
+      {
+        "role": "assistant",
+        "content": "For dwarf coconut seedlings, at planting time 2-3 kg of well-decomposed cow dung or compost should be applied per pit. Nitrogen fertilizer (urea) should be applied at 20-30 g in 2-3 split doses around the seedling. Phosphorus fertilizer (SSP or TSP) at 20-25 g should be mixed into the pit during planting. Potash fertilizer (MOP or KCl) at 15-20 g should be mixed with the soil beside the seedling. If zinc or boron deficiency is observed, a small amount may be applied to the pit or as a foliar spray. After fertilizer application, the soil should be watered thoroughly."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for vermicompost preparation in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nTo prepare vermicompost, first a pit measuring approximately 2 meters in length, 1 meter in width, and 1 meter in depth should be prepared. A shed made of tin or straw should be arranged over the pit to protect it from direct sunlight and rain. Aged and partially decomposed cow dung should then be placed in the pit, and about 2,000-3,000 earthworms should be released into it. The earthworms convert the organic material into granular vermicompost. After completion, the compost should be sieved, earthworms separated for reuse, and the finished vermicompost packed in bags or sacks.\n\nQuestion:\nWhat is the method of preparing vermicompost?"
+      },
+      {
+        "role": "assistant",
+        "content": "To prepare vermicompost, first a pit measuring approximately 2 meters in length, 1 meter in width, and 1 meter in depth should be prepared. A shed made of tin or straw should be arranged over the pit to protect it from direct sunlight and rain. Aged and partially decomposed cow dung should then be placed in the pit, and about 2,000-3,000 earthworms should be released into it. The earthworms convert the organic material into granular vermicompost. After completion, the compost should be sieved, earthworms separated for reuse, and the finished vermicompost packed in bags or sacks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for plant nutrition using household fertilizers in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nBanana peels can be used as fertilizer by chopping them into small pieces and burying them near the base of plants. They can also be soaked in water for 3-5 days to prepare a liquid fertilizer, which can then be applied to the soil around plants.\n\nQuestion:\nHow can banana peels be used as fertilizer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Banana peels can be used as fertilizer by chopping them into small pieces and burying them near the base of plants. They can also be soaked in water for 3-5 days to prepare a liquid fertilizer, which can then be applied to the soil around plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for plant nutrition using household fertilizers in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, applying banana peels every day may cause problems such as attracting flies or promoting fungal growth. Excessive application is not recommended, and applying banana peel fertilizer once a week is generally sufficient for plant nutrition.\n\nQuestion:\nWill there be any problem if banana peels are applied every day?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, applying banana peels every day may cause problems such as attracting flies or promoting fungal growth. Excessive application is not recommended, and applying banana peel fertilizer once a week is generally sufficient for plant nutrition."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for plant nutrition using household fertilizers in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nPlants that benefit most from banana peels include flowering plants, chili, tomato, jackfruit, papaya, lemon, and other fruit-bearing plants due to the potassium and nutrients present in banana peels.\n\nQuestion:\nWhich plants benefit most from banana peels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Plants that benefit most from banana peels include flowering plants, chili, tomato, jackfruit, papaya, lemon, and other fruit-bearing plants due to the potassium and nutrients present in banana peels."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for plant nutrition using household fertilizers in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nLiquid fertilizer made from banana peels can be stored for up to 7 days. Storing it for longer periods may cause a bad odor and increase the risk of fungal growth.\n\nQuestion:\nHow long can liquid fertilizer made from banana peels be stored?"
+      },
+      {
+        "role": "assistant",
+        "content": "Liquid fertilizer made from banana peels can be stored for up to 7 days. Storing it for longer periods may cause a bad odor and increase the risk of fungal growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for plant nutrition using household fertilizers in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nVegetable cooking water is beneficial for plants because it contains dissolved vitamins and minerals that plants can absorb easily, helping to improve plant growth when applied after cooling.\n\nQuestion:\nWhy is vegetable cooking water beneficial for plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vegetable cooking water is beneficial for plants because it contains dissolved vitamins and minerals that plants can absorb easily, helping to improve plant growth when applied after cooling."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for plant nutrition using household fertilizers in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNo, salt water should not be applied to plants because salt is harmful and can damage plant roots, reduce water absorption, and negatively affect plant growth.\n\nQuestion:\nCan salt water be applied to plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, salt water should not be applied to plants because salt is harmful and can damage plant roots, reduce water absorption, and negatively affect plant growth."
+      }
+    ]
+  },
+
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for fertilizer and plant nutrition guidance in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNo, hot water should not be applied to plants. Water must be allowed to cool completely before application, as hot water can damage plant roots and leaves.\n\nQuestion:\nCan hot water be applied to plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, hot water should not be applied to plants. Water must be allowed to cool completely before application, as hot water can damage plant roots and leaves."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for fertilizer and plant nutrition guidance in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nPlants that benefit most from vegetable cooking water include leafy vegetables, vegetable crops, flowering plants, and money plants, as they can easily absorb the nutrients present in the water.\n\nQuestion:\nWhich plants benefit most from vegetable cooking water?"
+      },
+      {
+        "role": "assistant",
+        "content": "Plants that benefit most from vegetable cooking water include leafy vegetables, vegetable crops, flowering plants, and money plants, as they can easily absorb the nutrients present in the water."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nWood ash contains important plant nutrients such as potassium, calcium, and magnesium, which help improve soil fertility when applied properly.\n\nQuestion:\nWhat nutrients are present in wood ash?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wood ash contains important plant nutrients such as potassium, calcium, and magnesium, which help improve soil fertility when applied properly."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nWood ash is suitable for flower plants, fruit plants, sweet pumpkin, tomato, and chili plants, as these crops benefit from the potassium and minerals present in ash.\n\nQuestion:\nWhich plants are suitable for applying wood ash?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wood ash is suitable for flower plants, fruit plants, sweet pumpkin, tomato, and chili plants, as these crops benefit from the potassium and minerals present in ash."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNo, wood ash should not be used on acid-loving plants because it increases soil pH and can reduce the availability of nutrients required by these plants.\n\nQuestion:\nCan wood ash be used on acid-loving plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, wood ash should not be used on acid-loving plants because it increases soil pH and can reduce the availability of nutrients required by these plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nWood ash should be applied lightly by sprinkling a small amount around plants and mixing it gently with the soil to avoid sudden changes in soil pH.\n\nQuestion:\nHow should wood ash be applied to plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wood ash should be applied lightly by sprinkling a small amount around plants and mixing it gently with the soil to avoid sudden changes in soil pH."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nIf wood ash is applied in excess, the soil pH may increase suddenly, which can damage plant roots and negatively affect plant growth.\n\nQuestion:\nWhat happens if wood ash is applied in excess to plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "If wood ash is applied in excess, the soil pH may increase suddenly, which can damage plant roots and negatively affect plant growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNo, tea leaves should not be applied to all plants because they contain tannins. Excessive use can make the soil too acidic and harm certain plants.\n\nQuestion:\nCan tea leaves be applied to all plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, tea leaves should not be applied to all plants because they contain tannins. Excessive use can make the soil too acidic and harm certain plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, yeast can be used on vegetable plants, but it should be applied only once a month. Excessive use may promote fungal growth in the soil.\n\nQuestion:\nCan yeast be used on vegetable plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, yeast can be used on vegetable plants, but it should be applied only once a month. Excessive use may promote fungal growth in the soil."
+      }
+    ]
+  },
+  
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil health in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, orange peels can be applied to the soil, but it is best to dry them first and grind them into powder before application to improve decomposition and nutrient release.\n\nQuestion:\nCan orange peels be applied directly to the soil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, orange peels can be applied to the soil, but it is best to dry them first and grind them into powder before application to improve decomposition and nutrient release."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil health in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nUsing orange peels in soil improves soil nutrient quality and helps repel insects. Orange peels contain essential nutrients such as nitrogen and potassium that support healthy plant growth. In addition, natural compounds in orange peels act as mild pesticides, reducing insect infestation in the garden.\n\nQuestion:\nWhat are the benefits of using orange peels in soil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Using orange peels in soil improves soil nutrient quality and helps repel insects. Orange peels contain essential nutrients such as nitrogen and potassium that support healthy plant growth. In addition, natural compounds in orange peels act as mild pesticides, reducing insect infestation in the garden."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil health in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNeem cake is a natural and organic agricultural byproduct obtained after extracting oil from neem seeds. It works as a fertilizer, natural pesticide, and soil conditioner.\n\nQuestion:\nWhat is neem cake?"
+      },
+      {
+        "role": "assistant",
+        "content": "Neem cake is a natural and organic agricultural byproduct obtained after extracting oil from neem seeds. It works as a fertilizer, natural pesticide, and soil conditioner."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil health in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNeem cake is used in agriculture because it supplies nutrients to plants, protects crops from harmful insects, and improves overall soil fertility.\n\nQuestion:\nWhy is neem cake used in agriculture?"
+      },
+      {
+        "role": "assistant",
+        "content": "Neem cake is used in agriculture because it supplies nutrients to plants, protects crops from harmful insects, and improves overall soil fertility."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil health in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNeem cake works as a fertilizer by providing essential plant nutrients such as nitrogen, phosphorus, and potassium. It strengthens plant roots, promotes denser leaf growth, and increases flower and fruit production.\n\nQuestion:\nHow does neem cake work as a fertilizer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Neem cake works as a fertilizer by providing essential plant nutrients such as nitrogen, phosphorus, and potassium. It strengthens plant roots, promotes denser leaf growth, and increases flower and fruit production."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil health in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, neem cake is effective as a natural pesticide. It helps protect plants from ants, grubs, fungi, and other harmful insects present in the soil.\n\nQuestion:\nIs neem cake effective as a pesticide?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, neem cake is effective as a natural pesticide. It helps protect plants from ants, grubs, fungi, and other harmful insects present in the soil."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil health in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nWhen neem cake is mixed into the soil, it improves soil fertility and keeps beneficial soil microorganisms active, which supports long-term soil health and sustainable crop production.\n\nQuestion:\nHow is neem cake beneficial for soil health?"
+      },
+      {
+        "role": "assistant",
+        "content": "When neem cake is mixed into the soil, it improves soil fertility and keeps beneficial soil microorganisms active, which supports long-term soil health and sustainable crop production."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil health in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, neem cake is completely natural and environmentally friendly. It is produced from neem seeds without the use of any chemical additives.\n\nQuestion:\nIs neem cake completely natural?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, neem cake is completely natural and environmentally friendly. It is produced from neem seeds without the use of any chemical additives."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil health in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNo, neem cake is cost-effective. It provides long-term benefits by improving soil fertility and reducing pest problems, which helps lower overall input costs.\n\nQuestion:\nWill using neem cake increase farming or gardening costs?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, neem cake is cost-effective. It provides long-term benefits by improving soil fertility and reducing pest problems, which helps lower overall input costs."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil health in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nIn rooftop gardening, neem cake can be mixed into the soil of pots or planter boxes. Light application every 10-15 days gives good results without harming plants.\n\nQuestion:\nHow should neem cake be used in rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "In rooftop gardening, neem cake can be mixed into the soil of pots or planter boxes. Light application every 10-15 days gives good results without harming plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil health in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nGenerally, neem cake does not cause harm. However, excessive use of neem cake may temporarily change the soil pH, so it should be applied in moderate amounts.\n\nQuestion:\nCan excessive use of neem cake cause harm to plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generally, neem cake does not cause harm. However, excessive use of neem cake may temporarily change the soil pH, so it should be applied in moderate amounts."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for natural fertilizers and soil health in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNeem cake is suitable for fruit plants, vegetable crops, flowering plants, and indoor plants, making it a versatile organic input.\n\nQuestion:\nFor which plants is neem cake most suitable?"
+      },
+      {
+        "role": "assistant",
+        "content": "Neem cake is suitable for fruit plants, vegetable crops, flowering plants, and indoor plants, making it a versatile organic input."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nGround peanut oil cake is the solid material left after extracting oil from peanuts. When dried and ground, it is used as an organic fertilizer and natural pesticide.\n\nQuestion:\nWhat is ground peanut oil cake?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ground peanut oil cake is the solid material left after extracting oil from peanuts. When dried and ground, it is used as an organic fertilizer and natural pesticide."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, ground peanut oil cake is completely natural and organic. When used in the correct amount, it does not harm plants.\n\nQuestion:\nIs ground peanut oil cake safe for plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, ground peanut oil cake is completely natural and organic. When used in the correct amount, it does not harm plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, ground peanut oil cake works as a natural pesticide by suppressing harmful underground insects, nematodes, and soil-borne fungi.\n\nQuestion:\nDoes ground peanut oil cake work as a natural pesticide?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, ground peanut oil cake works as a natural pesticide by suppressing harmful underground insects, nematodes, and soil-borne fungi."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nGround peanut oil cake can be used on vegetables, fruit trees, flowering plants, leafy vegetables, climbers, and perennial plants.\n\nQuestion:\nWhich crops or plants can ground peanut oil cake be used on?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ground peanut oil cake can be used on vegetables, fruit trees, flowering plants, leafy vegetables, climbers, and perennial plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nMix 1-2 handfuls of ground peanut oil cake powder per pot into the soil during soil preparation. Mixing it 7-10 days before planting allows proper decomposition.\n\nQuestion:\nHow should ground peanut oil cake be mixed into the soil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mix 1-2 handfuls of ground peanut oil cake powder per pot into the soil during soil preparation. Mixing it 7-10 days before planting allows proper decomposition."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nTo make liquid fertilizer, soak 1 kg of ground peanut oil cake powder in 5 liters of water for 4-5 days. Strain the liquid and apply it to the plant base or as a foliar spray.\n\nQuestion:\nHow can liquid fertilizer be made from ground peanut oil cake?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make liquid fertilizer, soak 1 kg of ground peanut oil cake powder in 5 liters of water for 4-5 days. Strain the liquid and apply it to the plant base or as a foliar spray."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nLiquid fertilizer made from ground peanut oil cake is sufficient when applied once every 10-15 days. Powdered oil cake mixed into the soil should be applied only once a month.\n\nQuestion:\nHow often can ground peanut oil cake be used in a week?"
+      },
+      {
+        "role": "assistant",
+        "content": "Liquid fertilizer made from ground peanut oil cake is sufficient when applied once every 10-15 days. Powdered oil cake mixed into the soil should be applied only once a month."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, excessive application of ground peanut oil cake can cause root rot and encourage excessive bacterial growth in the soil. Therefore, it should always be used in moderate amounts.\n\nQuestion:\nWill there be problems if too much ground peanut oil cake is applied?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, excessive application of ground peanut oil cake can cause root rot and encourage excessive bacterial growth in the soil. Therefore, it should always be used in moderate amounts."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nLiquid fertilizer made from ground peanut oil cake should be used within 5-7 days. Storing it longer can produce a strong odor and gas due to fermentation.\n\nQuestion:\nHow long does liquid fertilizer made from ground peanut oil cake remain usable?"
+      },
+      {
+        "role": "assistant",
+        "content": "Liquid fertilizer made from ground peanut oil cake should be used within 5-7 days. Storing it longer can produce a strong odor and gas due to fermentation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, the mild but strong natural smell of ground peanut oil cake helps repel many small insects from the soil and plant base.\n\nQuestion:\nCan ground peanut oil cake repel small insects?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the mild but strong natural smell of ground peanut oil cake helps repel many small insects from the soil and plant base."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nGround peanut oil cake should be used very sparingly or avoided for plants that require little water, such as succulents, because it can retain excess moisture in the soil.\n\nQuestion:\nWhich plants should ground peanut oil cake not be used on?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ground peanut oil cake should be used very sparingly or avoided for plants that require little water, such as succulents, because it can retain excess moisture in the soil."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, ground peanut oil cake improves soil structure by loosening compacted soil, increasing water-holding capacity, and promoting the growth of beneficial soil bacteria.\n\nQuestion:\nDoes ground peanut oil cake improve soil structure?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, ground peanut oil cake improves soil structure by loosening compacted soil, increasing water-holding capacity, and promoting the growth of beneficial soil bacteria."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nRegular use of ground peanut oil cake in rooftop gardening helps plants grow faster, makes leaves greener, increases flower and fruit production, and reduces pest and disease attacks.\n\nQuestion:\nWhat benefits are obtained by regular use of ground peanut oil cake in rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular use of ground peanut oil cake in rooftop gardening helps plants grow faster, makes leaves greener, increases flower and fruit production, and reduces pest and disease attacks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nCoffee grounds are the leftover residue of coffee powder after brewing coffee. These used coffee grounds can be reused for various purposes, including soil improvement and composting.\n\nQuestion:\nWhat are coffee grounds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Coffee grounds are the leftover residue of coffee powder after brewing coffee. These used coffee grounds can be reused for various purposes, including soil improvement and composting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNo, coffee grounds are best for plants that prefer neutral or slightly acidic soil, such as roses, tomatoes, and money plants. They should not be used on plants that prefer alkaline soil.\n\nQuestion:\nCan coffee grounds be used on all plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, coffee grounds are best for plants that prefer neutral or slightly acidic soil, such as roses, tomatoes, and money plants. They should not be used on plants that prefer alkaline soil."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, applying too much coffee ground directly to the soil can make the soil hard and compact. Therefore, only a small amount should be mixed properly with the soil.\n\nQuestion:\nDoes applying coffee grounds directly to the soil cause problems?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, applying too much coffee ground directly to the soil can make the soil hard and compact. Therefore, only a small amount should be mixed properly with the soil."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, coffee grounds help repel certain insects, especially ants and snails, due to their smell and texture.\n\nQuestion:\nDo coffee grounds help repel insects?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, coffee grounds help repel certain insects, especially ants and snails, due to their smell and texture."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nTo make liquid fertilizer, soak coffee grounds in water for about 24 hours, then strain the liquid and use it to water plants.\n\nQuestion:\nHow can liquid fertilizer be made using coffee grounds?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make liquid fertilizer, soak coffee grounds in water for about 24 hours, then strain the liquid and use it to water plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNo, coffee grounds should not be used every day. Applying them once or twice a month is sufficient for healthy plant growth.\n\nQuestion:\nCan coffee grounds be used every day?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, coffee grounds should not be used every day. Applying them once or twice a month is sufficient for healthy plant growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nEggshells are rich in calcium, which helps strengthen plant cell walls and supports healthy root and stem development.\n\nQuestion:\nWhat nutrients are present in eggshells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eggshells are rich in calcium, which helps strengthen plant cell walls and supports healthy root and stem development."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nEggshells should be dried, ground into a fine powder, and then mixed evenly into the soil so plants can absorb calcium effectively.\n\nQuestion:\nHow should eggshells be applied to the soil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eggshells should be dried, ground into a fine powder, and then mixed evenly into the soil so plants can absorb calcium effectively."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, eggshells are especially beneficial for vegetables like tomato, chili, and eggplant, as their high calcium content helps reduce blossom end rot.\n\nQuestion:\nAre eggshells beneficial for vegetable plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, eggshells are especially beneficial for vegetables like tomato, chili, and eggplant, as their high calcium content helps reduce blossom end rot."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, excessive use of eggshells may increase soil pH, which can reduce nutrient availability for some plants.\n\nQuestion:\nDoes excessive application of eggshells cause problems for plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, excessive use of eggshells may increase soil pH, which can reduce nutrient availability for some plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nVinegar is beneficial for acid-loving plants such as roses and blueberries when used in a properly diluted form.\n\nQuestion:\nFor which plants is vinegar beneficial?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vinegar is beneficial for acid-loving plants such as roses and blueberries when used in a properly diluted form."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNo, vinegar should never be applied directly. Mix one tablespoon of vinegar in one liter of water before applying to plants.\n\nQuestion:\nShould vinegar be applied directly to plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, vinegar should never be applied directly. Mix one tablespoon of vinegar in one liter of water before applying to plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for organic fertilizers and soil management in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nNo, household fertilizers should not be applied together. They should be used on different days of the week to avoid harming plants and soil balance.\n\nQuestion:\nCan all household fertilizers be applied together to plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, household fertilizers should not be applied together. They should be used on different days of the week to avoid harming plants and soil balance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nHousehold fertilizers can partially replace chemical fertilizers, but depending on the plant type and growth stage, a balanced use of both is often necessary.\n\nQuestion:\nAre household fertilizers a substitute for chemical fertilizers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Household fertilizers can partially replace chemical fertilizers, but depending on the plant type and growth stage, a balanced use of both is often necessary."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop varieties and seed guidance in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nSome of the best varieties of papaya are BARI Papaya-1 (Shahi Papaya), Red Lady, and Sweety. BARI Papaya-1 was developed by the Bangladesh Agricultural Research Institute. Red Lady is a high-yielding hybrid variety from Taiwan that is suitable for the climate of Bangladesh. Sweety is a virus-resistant variety that produces tasty fruits.\n\nQuestion:\nWhat are the best varieties for papaya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some of the best varieties of papaya are BARI Papaya-1 (Shahi Papaya), Red Lady, and Sweety. BARI Papaya-1 was developed by the Bangladesh Agricultural Research Institute. Red Lady is a high-yielding hybrid variety from Taiwan that is suitable for the climate of Bangladesh. Sweety is a virus-resistant variety that produces tasty fruits."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop varieties and seed guidance in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nAmong the good varieties of winter corn, BARI Hybrid Corn-5 is a high-yielding and protein-rich variety that can produce 9-10 tons per hectare during the Rabi season. Other good varieties include Barnaali, Shuvra, and Khai Corn developed by the Bangladesh Wheat and Maize Research Institute. In addition, improved hybrid varieties such as United-55 are also available in the market.\n\nQuestion:\nWhich are good varieties of winter corn?"
+      },
+      {
+        "role": "assistant",
+        "content": "Among the good varieties of winter corn, BARI Hybrid Corn-5 is a high-yielding and protein-rich variety that can produce 9-10 tons per hectare during the Rabi season. Other good varieties include Barnaali, Shuvra, and Khai Corn developed by the Bangladesh Wheat and Maize Research Institute. In addition, improved hybrid varieties such as United-55 are also available in the market."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop varieties and seed guidance in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nSunflower seeds can be collected from local seed shops, nearby farmers, and reliable online seed sellers.\n\nQuestion:\nWhere can I get sunflower seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sunflower seeds can be collected from local seed shops, nearby farmers, and reliable online seed sellers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop varieties and seed guidance in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nBARI Sunflower-2 is a good variety recommended for Bangladesh. The stem diameter is 2.0-2.4 cm, and the mature flower head diameter is 15-18 cm. The seeds are black, with a 1000-seed weight of 65-70 grams. Each head contains 450-650 seeds, and the oil content is 42-44%. The crop duration is 95-100 days in the Rabi season and 90-95 days in the Kharif season. The yield is 2.0-2.3 tons per hectare in the Rabi season and 1.5-1.8 tons per hectare in the Kharif season.\n\nQuestion:\nWhich are good varieties of sunflower?"
+      },
+      {
+        "role": "assistant",
+        "content": "BARI Sunflower-2 is a good variety recommended for Bangladesh. The stem diameter is 2.0-2.4 cm, and the mature flower head diameter is 15-18 cm. The seeds are black, with a 1000-seed weight of 65-70 grams. Each head contains 450-650 seeds, and the oil content is 42-44%. The crop duration is 95-100 days in the Rabi season and 90-95 days in the Kharif season. The yield is 2.0-2.3 tons per hectare in the Rabi season and 1.5-1.8 tons per hectare in the Kharif season."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop varieties and cultivation guidance in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nRed Lady is a high-yielding dwarf hybrid papaya variety from Taiwan. It is easy to cultivate and has good disease resistance. The plant grows up to about 10 feet tall and starts bearing fruit at a height of 60-80 cm. It begins flowering and fruiting within 100-120 days, and fruits can be harvested within 130-140 days. Each tree can bear approximately 70-150 fruits and produce more than 80-100 kg of fruit per year. The fruits are sweet in taste and suitable for commercial cultivation.\n\nQuestion:\nTell me about Red Lady papaya."
+      },
+      {
+        "role": "assistant",
+        "content": "Red Lady is a high-yielding dwarf hybrid papaya variety from Taiwan. It is easy to cultivate and has good disease resistance. The plant grows up to about 10 feet tall and starts bearing fruit at a height of 60-80 cm. It begins flowering and fruiting within 100-120 days, and fruits can be harvested within 130-140 days. Each tree can bear approximately 70-150 fruits and produce more than 80-100 kg of fruit per year. The fruits are sweet in taste and suitable for commercial cultivation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop varieties and cultivation guidance in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nSome good varieties of sajeena include PKS-2 and BARI Sajeena-1. The PKS-2 variety starts producing fruits within about 6 months of planting and bears fruit throughout the year. A single tree can produce up to 1,600 fruits annually, yielding approximately 2 maunds of sajeena per year, making it suitable for commercial cultivation.\n\nQuestion:\nWhich are good varieties of sajeena?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some good varieties of sajeena include PKS-2 and BARI Sajeena-1. The PKS-2 variety starts producing fruits within about 6 months of planting and bears fruit throughout the year. A single tree can produce up to 1,600 fruits annually, yielding approximately 2 maunds of sajeena per year, making it suitable for commercial cultivation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop varieties and cultivation guidance in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nBilati coriander seeds can be collected from government horticulture centers or nearby offices of the Bangladesh Agricultural Research Institute or other agricultural extension offices.\n\nQuestion:\nWhere can I get Bilati coriander seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bilati coriander seeds can be collected from government horticulture centers or nearby offices of the Bangladesh Agricultural Research Institute or other agricultural extension offices."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop varieties and cultivation practices in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe best time to graft a lemon tree is from May to July. During this period, air humidity is high and plant cell activity is strong, which helps the graft heal quickly and increases the success rate. Grafting can also be done at other times of the year, but proper humidity must be maintained for successful grafting.\n\nQuestion:\nWhat is the right time to make a graft on a lemon tree?"
+      },
+      {
+        "role": "assistant",
+        "content": "The best time to graft a lemon tree is from May to July. During this period, air humidity is high and plant cell activity is strong, which helps the graft heal quickly and increases the success rate. Grafting can also be done at other times of the year, but proper humidity must be maintained for successful grafting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop varieties and cultivation practices in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nCurrently, BARI Sarisha-18 is one of the best high-quality and high-yielding mustard varieties in Bangladesh. It can produce 30-60% higher yield compared to conventional varieties. It is a canola-type mustard that produces high-quality edible oil. Another recommended variety is BARI Sarisha-14, which is also suitable for cultivation.\n\nQuestion:\nWhat is the best quality high-yielding variety of mustard?"
+      },
+      {
+        "role": "assistant",
+        "content": "Currently, BARI Sarisha-18 is one of the best high-quality and high-yielding mustard varieties in Bangladesh. It can produce 30-60% higher yield compared to conventional varieties. It is a canola-type mustard that produces high-quality edible oil. Another recommended variety is BARI Sarisha-14, which is also suitable for cultivation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop varieties and cultivation practices in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nSeveral BARI-released bean varieties perform very well in Bangladesh. Recommended varieties include BARI Shim-1, BARI Shim-2, BARI Shim-3 (summer), BARI Shim-4, BARI Shim-5, BARI Shim-6, BARI Shim-7 (summer), and BARI Shim-8. In addition, the Kerala variety is popular because it can yield for up to 12 months and performs especially well in small cultivation areas.\n\nQuestion:\nWhich variety is best for bean cultivation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Several BARI-released bean varieties perform very well in Bangladesh. Recommended varieties include BARI Shim-1, BARI Shim-2, BARI Shim-3 (summer), BARI Shim-4, BARI Shim-5, BARI Shim-6, BARI Shim-7 (summer), and BARI Shim-8. In addition, the Kerala variety is popular because it can yield for up to 12 months and performs especially well in small cultivation areas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop varieties and cultivation practices in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nBARI Pata Onion-1 is a good and widely recommended onion variety in Bangladesh. It is suitable for local growing conditions and provides good yield.\n\nQuestion:\nWhich is a good variety of onion?"
+      },
+      {
+        "role": "assistant",
+        "content": "BARI Pata Onion-1 is a good and widely recommended onion variety in Bangladesh. It is suitable for local growing conditions and provides good yield."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop varieties and cultivation practices in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nGood varieties of early potatoes include BARI Alu-8 (locally known as Cardinal) and BARI Alu-13. In addition, high-yielding varieties such as BARI Alu-12 and BARI Alu-14 are also suitable for early cultivation because they have a shorter growth duration and produce good yields.\n\nQuestion:\nWhat are the good varieties of early potatoes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Good varieties of early potatoes include BARI Alu-8 (locally known as Cardinal) and BARI Alu-13. In addition, high-yielding varieties such as BARI Alu-12 and BARI Alu-14 are also suitable for early cultivation because they have a shorter growth duration and produce good yields."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop cultivation guidance in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nIf seedbeds are destroyed and there is no time to prepare new ones, farmers can grow direct-seeded crops such as leafy vegetables, spinach, amaranth, radish, okra, cucumber, pumpkin, and other quick-growing vegetables that do not require transplanting.\n\nQuestion:\nWhat other crops can be grown if seedbeds are destroyed by flood?"
+      },
+      {
+        "role": "assistant",
+        "content": "If seedbeds are destroyed and there is no time to prepare new ones, farmers can grow direct-seeded crops such as leafy vegetables, spinach, amaranth, radish, okra, cucumber, pumpkin, and other quick-growing vegetables that do not require transplanting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop cultivation guidance in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nYes, autumn vegetables can be grown successfully. Suitable autumn vegetables include bottle gourd, bitter gourd, snake gourd, pumpkin, cucumber, okra, and various leafy vegetables, provided proper soil preparation and timely planting are ensured.\n\nQuestion:\nCan autumn vegetables be grown?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, autumn vegetables can be grown successfully. Suitable autumn vegetables include bottle gourd, bitter gourd, snake gourd, pumpkin, cucumber, okra, and various leafy vegetables, provided proper soil preparation and timely planting are ensured."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for crop varieties and cultivation guidance in Bangladesh. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nRecommended summer tomato varieties include BARI Tomato-5, BARI Tomato-6, BARI Tomato-11, BARI Tomato-14, BARI Hybrid Tomato-4, BARI Hybrid Tomato-8, BARI Hybrid Tomato-10, and Mintu Hybrid. For summer cultivation, tomato seeds should be sown during May to June.\n\nQuestion:\nWhat are the varieties of summer tomatoes and when should they be planted?"
+      },
+      {
+        "role": "assistant",
+        "content": "Recommended summer tomato varieties include BARI Tomato-5, BARI Tomato-6, BARI Tomato-11, BARI Tomato-14, BARI Hybrid Tomato-4, BARI Hybrid Tomato-8, BARI Hybrid Tomato-10, and Mintu Hybrid. For summer cultivation, tomato seeds should be sown during May to June."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nRabi-1 is a newly developed improved variety of jute created by making slight genetic modifications to conventional Tosha jute. This variety produces better fiber quality and higher yield compared to ordinary Tosha jute. Rabi-1 plants grow at least 20 cm taller than traditional Tosha jute, contain about 20 percent more fiber, and produce brighter-colored fiber. While ordinary Tosha jute requires around 120 days to harvest, Rabi-1 can be harvested in about 100 days. Early harvesting allows farmers to cultivate Aman rice on the same land. Unlike traditional Tosha jute, which has a thin tip and thick base, Rabi-1 has a more uniform stem structure. Its yield is approximately 20-30 percent higher than indigenous Tosha and Indian jute varieties.\n\nQuestion:\nTell me about the jute variety named Rabi-1."
+      },
+      {
+        "role": "assistant",
+        "content": "Rabi-1 is a newly developed improved variety of jute created by making slight genetic modifications to conventional Tosha jute. It produces better fiber quality and higher yield, grows at least 20 cm taller than traditional Tosha jute, contains about 20% more fiber, and produces brighter-colored fiber. Rabi-1 can be harvested in about 100 days, which is earlier than ordinary Tosha jute, allowing cultivation of Aman rice on the same land. The stem is more uniform, and yield is approximately 20-30% higher than indigenous Tosha and Indian jute varieties."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nBJRI Tosha Jute-6 (O-3820) is considered one of the most modern and advanced jute varieties in Bangladesh. This variety is photosensitive and fast-growing, with early maturity and high yield potential. The plant is completely green with long, bulb-shaped leaves. The seeds are bluish-green in color and are suitable for line sowing. BJRI Tosha Jute-6 produces high-quality fiber with a bright golden color, making it highly desirable for commercial cultivation.\n\nQuestion:\nWhich is the most modern or advanced variety of jute and what are its characteristics?"
+      },
+      {
+        "role": "assistant",
+        "content": "BJRI Tosha Jute-6 (O-3820) is one of the most modern and advanced jute varieties in Bangladesh. It is photosensitive, fast-growing, matures early, and has high yield potential. The plant is completely green with long, bulb-shaped leaves. The seeds are bluish-green and suitable for line sowing. BJRI Tosha Jute-6 produces high-quality fiber with a bright golden color, making it highly desirable for commercial cultivation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe summer and rainy seasons are the most suitable times for grafting trees. The best period for grafting is from May to July, as humidity levels are high during this time, which increases grafting success. Fruit trees such as mango, jackfruit, litchi, jamrul, pomegranate, rose apple, lemon, guava, olive, star fruit (kamaranga), amalaki, and plum can be successfully grafted during this period.\n\nQuestion:\nWhen is the best time to graft trees and which trees can be grafted?"
+      },
+      {
+        "role": "assistant",
+        "content": "The summer and rainy seasons are the most suitable times for grafting trees, with May to July being the best period due to high humidity. Fruit trees such as mango, jackfruit, litchi, jamrul, pomegranate, rose apple, lemon, guava, olive, star fruit (kamaranga), amalaki, and plum can be successfully grafted during this period."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe ideal spacing for planting litchi seedlings is usually 8 meters x 8 meters or 10 meters x 10 meters. This spacing allows proper canopy development, good air circulation, and better fruit production as the trees grow.\n\nQuestion:\nWhat is the ideal distance for planting litchi seedlings?"
+      },
+      {
+        "role": "assistant",
+        "content": "The ideal spacing for planting litchi seedlings is usually 8 meters x 8 meters or 10 meters x 10 meters, which allows proper canopy development, good air circulation, and better fruit production."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nApproximately 156 to 157 litchi seedlings can be planted in one hectare of land when using a spacing of 8 meters x 8 meters.\n\nQuestion:\nHow many litchi seedlings can be planted in one hectare of land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Approximately 156 to 157 litchi seedlings can be planted in one hectare of land using a spacing of 8 meters x 8 meters."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nGrafted litchi seedlings usually start bearing fruit within 3 to 4 years after planting, provided proper management and care are ensured.\n\nQuestion:\nHow long does it take for litchi seedlings to start bearing fruit?"
+      },
+      {
+        "role": "assistant",
+        "content": "Grafted litchi seedlings usually start bearing fruit within 3 to 4 years after planting, provided proper management and care."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe right time to plant litchi seedlings is after the monsoon season ends, when the soil remains sufficiently moist. In Bangladesh, this is usually between March and April.\n\nQuestion:\nWhen is the right time to plant litchi seedlings?"
+      },
+      {
+        "role": "assistant",
+        "content": "The right time to plant litchi seedlings is after the monsoon season ends, usually between March and April in Bangladesh, when the soil remains sufficiently moist."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nPopular litchi varieties in Bangladesh include China-3, Bombay, Bedana, Madraji, Mangalbari, Muzaffarpuri, Kadmi, BARI Litchi-1, BARI Litchi-2, and BARI Litchi-3. Among these, China-3 is the most popular variety because it is early maturing and produces high-quality fruits.\n\nQuestion:\nWhat are the popular litchi varieties in Bangladesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Popular litchi varieties in Bangladesh include China-3, Bombay, Bedana, Madraji, Mangalbari, Muzaffarpuri, Kadmi, BARI Litchi-1, BARI Litchi-2, and BARI Litchi-3. China-3 is the most popular because it is early maturing and produces high-quality fruits."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nShort or dwarf coconut seedlings can be planted in tubs on rooftops if the container is sufficiently large. However, agricultural experts generally advise against planting coconut trees on rooftops due to their long-term size, weight, and root system, which may cause structural risks.\n\nQuestion:\nCan short coconut seedlings be planted in a tub on the roof?"
+      },
+      {
+        "role": "assistant",
+        "content": "Short or dwarf coconut seedlings can be planted in tubs on rooftops if the container is sufficiently large. However, experts generally advise against this due to the long-term size, weight, and root system, which may pose structural risks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nBanana mango is a mango variety originally from Thailand. The fruit is long like a banana and turns yellow to pink when ripe. It has a thin skin, strong mango aroma, excellent taste, sweetness around 19-20 TSS, and about 83% edible portion. Its yield is more than double that of many conventional mango varieties. Banana mango is easy to cultivate and usually appears in the market after June, when the supply of other quality mangoes declines.\n\nQuestion:\nWhat is banana mango?"
+      },
+      {
+        "role": "assistant",
+        "content": "Banana mango is a Thai mango variety shaped like a banana, turning yellow to pink when ripe. It has thin skin, strong aroma, excellent taste, sweetness of 19-20 TSS, and 83% edible portion. It yields more than double conventional mango varieties, is easy to cultivate, and appears in the market after June."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nSurjo Dim or Miyazaki mango, also known as 'Red Mango', is available in Bangladesh. It is cultivated in suitable regions, especially in hilly areas such as Khagrachari.\n\nQuestion:\nIs Surjo Dim or Miyazaki mango available in Bangladesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, Surjo Dim or Miyazaki mango, also called 'Red Mango', is available in Bangladesh, particularly in hilly areas like Khagrachari where the climate is suitable."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nBARI Squash-1 is the recommended squash variety released by BARI. Private seed companies also market hybrid squash seeds in Bangladesh.\n\nQuestion:\nWhere can I get squash seeds and what is a recommended variety?"
+      },
+      {
+        "role": "assistant",
+        "content": "BARI Squash-1 is the recommended variety. Seeds can be obtained from BARI or various private seed companies and agricultural input shops in Bangladesh."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nLucky Bamboo, or Dracaena sanderiana, is available in plant nurseries, online plant shops, and home furnishing stores. It can be grown in water or soil and is considered a symbol of good luck.\n\nQuestion:\nWhere can I get Lucky Bamboo and what should I know about it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lucky Bamboo is available in plant nurseries, online plant shops, and home furnishing stores. It is an indoor ornamental plant (Dracaena sanderiana) that can be grown in water or soil and is commonly considered a symbol of good luck."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nPepper varieties suitable for year-round cultivation include Hot Master, Mallika 117, Jamuna, and Chatak (upright variety).\n\nQuestion:\nWhich pepper varieties are suitable for cultivation throughout the year?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pepper varieties suitable for year-round cultivation include Hot Master, Mallika 117, Jamuna, and Chatak (upright variety)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nKamranga pepper is considered one of the most spicy pepper varieties in Bangladesh. Fruits are elliptical and very pungent. Seeds can be obtained from local farmers or regional agricultural markets.\n\nQuestion:\nWhich pepper variety is the most spicy and where can I get its seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kamranga pepper is one of the spiciest varieties in Bangladesh. The fruits are elliptical and very pungent. Seeds can usually be obtained from local farmers or regional agricultural markets."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe best tomato varieties for summer cultivation include BARI Hybrid Tomato-4, BARI Hybrid Tomato-8, and BARI Hybrid Tomato-10.\n\nQuestion:\nWhich tomato varieties are best for summer cultivation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The best tomato varieties for summer cultivation are BARI Hybrid Tomato-4, BARI Hybrid Tomato-8, and BARI Hybrid Tomato-10. These varieties are heat-tolerant and suitable for summer conditions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for agricultural guidance in Bangladesh. Answer ONLY based on the provided context. If information is missing, reply: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nSweet tamarind (BARI Tamarind-1) is cultivated in Bangladesh but in limited quantities. It is distributed to farmers in small numbers, mainly for planting 3-5 trees in mixed fruit gardens. Production is currently around 302 hectares in Bandarban with an average yield of 19 metric tons per hectare. The tree flowers and bears fruit within 5-6 years, or earlier if grafted seedlings are used.\n\nQuestion:\nWhich horticulture center can sweet tamarind be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sweet tamarind (BARI Tamarind-1) is cultivated in limited quantities in Bangladesh. Although distributed by the Agriculture Department to farmers, its availability remains limited. Currently, it is mainly grown on about 302 hectares in Bandarban. The tree usually bears fruit within 5-6 years, or earlier if grafted seedlings are used."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can BT brinjal seeds be stored?"
+      },
+      {
+        "role": "assistant",
+        "content": "To store BT brinjal seeds, collect the fruits before they are fully mature. The fruit should be fully grown but the seeds not yet hard, and the skin should be bright and shiny. Overripe fruit becomes greenish-yellow or copper, with a hard, spongy shell. Press the fruit lightly: if it returns to its shape, it is young; if soft with a fingerprint, it is ready to harvest. Seeds harvested from very young fruits are high quality, though yield is lower."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can you get Chinese Durba grass seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chinese Durba grass seeds are available in agricultural nurseries and online agricultural product websites in Bangladesh."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can you get carpet grass seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carpet grass seeds are available in well-established nurseries in almost every district of Bangladesh."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "I want to know the names of some early varieties of cauliflower."
+      },
+      {
+        "role": "assistant",
+        "content": "Some early varieties of cauliflower include Early Snowball and Paushali."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Name some varieties of chili peppers."
+      },
+      {
+        "role": "assistant",
+        "content": "Popular chili pepper varieties include Naga Bombay chili, Black chili, Bullet chili, Dhanua chili, Raw chili, Bijli chili, and Thai white chili."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which is the best variety of sweet pumpkin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Popular sweet pumpkin varieties include BARI Sweet Pumpkin-1, BARI Sweet Pumpkin-2, Black Emperor (F1 hybrid), and Sweet Ball."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can BT brinjal seeds be stored, and how?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, BT brinjal seeds can be stored. Collect the fruits before they are fully mature: the fruit should be fully grown but the seeds not yet hard. The skin should be bright and shiny. Avoid overripe fruits, which have a hard and spongy shell. To check readiness, press the fruit gently: if it springs back, the seeds are good for storage. Harvesting seeds from slightly immature fruits ensures better quality, although yields may be lower."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can I get Chinese Durba grass seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chinese Durba grass seeds are available at nurseries and online agricultural product stores."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can I find carpet grass seeds in Bangladesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carpet grass seeds can be found in well-stocked nurseries across all districts in Bangladesh."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What are the commonly grown local varieties of oranges in Bangladesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Commonly grown local improved varieties of oranges in Bangladesh include Nagpuri and Khasia. These varieties are well adapted to local growing conditions and are widely cultivated."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nTo store BT brinjal seeds, collect the fruits before they are fully mature. The fruit should be fully grown but the seeds not yet hard, and the skin should be bright and shiny. Overripe fruit becomes greenish-yellow or copper, with a hard, spongy shell. Press the fruit lightly: if it returns to its shape, it is young; if soft with a fingerprint, it is ready to harvest. Seeds harvested from very young fruits are high quality, though yield is lower. The fruit is ready to eat 1 month after flowering, with a yield of 17–64 tons per hectare depending on the variety.\n\nQuestion:\nCan BT brinjal seeds be stored?"
+      },
+      {
+        "role": "assistant",
+        "content": "To store BT brinjal seeds, collect the fruits before they are fully mature. The fruit should be fully grown but the seeds not yet hard, and the skin should be bright and shiny. Avoid overripe fruits, which have a hard, spongy shell. Seeds from slightly immature fruits are high quality, although yield may be lower."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nChinese Durba grass seeds are available in agricultural nurseries and online agricultural product websites in Bangladesh.\n\nQuestion:\nWhere can you get Chinese Durba grass seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chinese Durba grass seeds are available in agricultural nurseries and online agricultural product websites in Bangladesh."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nCarpet grass seeds are available in well-established nurseries in almost every district of Bangladesh.\n\nQuestion:\nWhere can you get carpet grass seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carpet grass seeds are available in well-established nurseries in almost every district of Bangladesh."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nSome early varieties of cauliflower include Early Snowball and Paushali.\n\nQuestion:\nI want to know the names of some early varieties of cauliflower."
+      },
+      {
+        "role": "assistant",
+        "content": "Some early varieties of cauliflower include Early Snowball and Paushali."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nPopular chili pepper varieties include Naga Bombay chili, Black chili, Bullet chili, Dhanua chili, Raw chili, Bijli chili, and Thai white chili.\n\nQuestion:\nName some varieties of chili peppers."
+      },
+      {
+        "role": "assistant",
+        "content": "Popular chili pepper varieties include Naga Bombay chili, Black chili, Bullet chili, Dhanua chili, Raw chili, Bijli chili, and Thai white chili."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nPopular sweet pumpkin varieties include BARI Sweet Pumpkin-1, BARI Sweet Pumpkin-2, Black Emperor (F1 hybrid), and Sweet Ball.\n\nQuestion:\nWhich is the best variety of sweet pumpkin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Popular sweet pumpkin varieties include BARI Sweet Pumpkin-1, BARI Sweet Pumpkin-2, Black Emperor (F1 hybrid), and Sweet Ball."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nCommonly grown local improved varieties of oranges in Bangladesh include Nagpuri and Khasia. These varieties are well adapted to local growing conditions and are widely cultivated.\n\nQuestion:\nWhat are the commonly grown local varieties of oranges in Bangladesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Commonly grown local improved varieties of oranges in Bangladesh include Nagpuri and Khasia."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nEarly-maturing cauliflower varieties suitable for cultivation in Bangladesh include Early Snowball and Paushali.\n\nQuestion:\nWhich cauliflower varieties mature early and are suitable for cultivation in Bangladesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Early-maturing cauliflower varieties suitable for cultivation in Bangladesh include Early Snowball and Paushali."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nPopular chili pepper varieties include Naga Bombay chili, Black chili, Bullet chili, Dhanua chili, Raw chili, Bijli chili, and Thai white chili.\n\nQuestion:\nWhat are the popular chili pepper varieties in Bangladesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Popular chili pepper varieties include Naga Bombay chili, Black chili, Bullet chili, Dhanua chili, Raw chili, Bijli chili, and Thai white chili."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nRecommended sweet pumpkin varieties include BARI Sweet Pumpkin-1, BARI Sweet Pumpkin-2, Black Emperor (F1 hybrid), and Sweet Ball.\n\nQuestion:\nWhich varieties of sweet pumpkin are recommended?"
+      },
+      {
+        "role": "assistant",
+        "content": "Recommended sweet pumpkin varieties are BARI Sweet Pumpkin-1, BARI Sweet Pumpkin-2, Black Emperor (F1 hybrid), and Sweet Ball."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nA rooftop garden refers to the scientific cultivation of flowers, fruits, and vegetables on the roof or balcony of a concrete (pucca) building.\n\nQuestion:\nWhat is meant by a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "A rooftop garden refers to the scientific cultivation of flowers, fruits, and vegetables on the roof or balcony of a concrete (pucca) building."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe English term for a roof garden is 'Rooftop Garden'.\n\nQuestion:\nWhat is the English term for a roof garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "The English term for a roof garden is 'Rooftop Garden'."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe main purposes of a rooftop garden are to improve the natural environment, produce fresh food, and enhance the aesthetic beauty of urban spaces.\n\nQuestion:\nWhat is the main purpose of establishing a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "The main purposes of a rooftop garden are to improve the natural environment, produce fresh food, and enhance the aesthetic beauty of urban spaces."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nA rooftop garden can be established on rooftops, balconies, verandas, cornices, or any available open space of a building.\n\nQuestion:\nWhere can a rooftop garden be established?"
+      },
+      {
+        "role": "assistant",
+        "content": "A rooftop garden can be established on rooftops, balconies, verandas, cornices, or any available open space of a building."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nRooftop gardening helps create greenery in urban areas, supports food production, and contributes to temperature control and environmental balance.\n\nQuestion:\nWhat are the benefits of rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rooftop gardening helps create greenery in urban areas, supports food production, and contributes to temperature control and environmental balance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nA rooftop garden can include flowers, fruit plants, vegetables, and creeping or climbing vegetable crops.\n\nQuestion:\nWhat types of plants can be grown in a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "A rooftop garden can include flowers, fruit plants, vegetables, and creeping or climbing vegetable crops."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nRooftop gardening is not limited to a hobby. It can also be practiced for food production, environmental improvement, and sustainable urban living.\n\nQuestion:\nIs rooftop gardening only a hobby activity?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, rooftop gardening is not limited to a hobby. It can also be practiced for food production, environmental improvement, and sustainable urban living."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe size of a rooftop garden depends on the available space. It can range from 1-2 square meters to the entire rooftop, as long as proper planning and weight considerations are maintained.\n\nQuestion:\nWhat should be the ideal size of a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "The size of a rooftop garden depends on the available space. It can range from a small area of 1-2 square meters to the entire rooftop, as long as proper planning and weight considerations are maintained."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe key requirements for a rooftop garden include adequate sunlight, good-quality soil, suitable pots or containers, regular water supply, proper drainage, and consistent garden care.\n\nQuestion:\nWhat are the most important requirements for starting a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "The key requirements for a rooftop garden include adequate sunlight, good-quality soil, suitable pots or containers, regular water supply, proper drainage, and consistent garden care."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nA rooftop garden can be started in any season. Extra precautions are needed during the rainy season and winter to manage excess water, temperature stress, and plant protection.\n\nQuestion:\nWhen is the best time to start a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "A rooftop garden can be started in any season. However, extra precautions are needed during the rainy season and winter to manage excess water, temperature stress, and plant protection."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nIn most cases, no government permission is required to set up a rooftop garden. Permission from the building or house owner is necessary.\n\nQuestion:\nIs any permission required to set up a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "In most cases, no government permission is required to set up a rooftop garden. However, permission from the building owner or house owner is necessary."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nGenerally, a typical rooftop can support about 30-40 kilograms per square foot. For heavy containers or concrete pots, consulting a structural engineer is recommended.\n\nQuestion:\nHow much weight can a rooftop safely support for gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generally, a typical rooftop can support about 30-40 kilograms per square foot. If heavy containers or concrete pots are used, consulting a structural engineer is recommended for safety."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe Dr. Chashi mobile application provides useful guidance and information related to rooftop gardening and crop management.\n\nQuestion:\nAre there any books or mobile apps that can help with rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the Dr. Chashi mobile application provides useful guidance and information related to rooftop gardening and crop management."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nCommonly used containers for rooftop gardening include tubs, half drums, concrete or ceramic pots, and plastic drums, depending on plant size and weight capacity.\n\nQuestion:\nWhat types of pots or containers are suitable for rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Commonly used containers for rooftop gardening include tubs, half drums, concrete or ceramic pots, and plastic drums, depending on plant size and weight capacity."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nA suitable soil mixture for tubs includes loamy soil mixed with organic fertilizer and compost to ensure good drainage, nutrient availability, and healthy root growth.\n\nQuestion:\nWhat type of soil mixture is best for tubs or containers?"
+      },
+      {
+        "role": "assistant",
+        "content": "A suitable soil mixture for tubs includes loamy soil mixed with organic fertilizer and compost to ensure good drainage, nutrient availability, and healthy root growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nTubs or containers must have drainage holes at the bottom so that excess water can flow out and prevent root rot.\n\nQuestion:\nHow should water drainage be managed in rooftop garden tubs?"
+      },
+      {
+        "role": "assistant",
+        "content": "To ensure proper drainage, tubs or containers must have drainage holes at the bottom so that excess water can flow out and prevent root rot."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nA half drum should be filled with a mixture of about two-thirds loamy soil and well-rotted cow dung or compost to support healthy plant growth.\n\nQuestion:\nHow should soil be filled in a half drum for rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "A half drum should be filled with a mixture of about two-thirds loamy soil and well-rotted cow dung or compost to support healthy plant growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the provided context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe soil in rooftop garden containers should be replaced every year or at least once after one year to maintain soil fertility and reduce pest and disease buildup.\n\nQuestion:\nHow often should the soil in rooftop garden containers be replaced?"
+      },
+      {
+        "role": "assistant",
+        "content": "The soil in rooftop garden containers should be replaced every year or at least once after one year to maintain soil fertility and reduce pest and disease buildup."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the provided context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nWhile changing soil in rooftop garden containers, care must be taken to avoid damaging the roots, stems, or seedlings. Gentle handling helps reduce plant stress and ensures healthy regrowth after soil replacement.\n\nQuestion:\nWhat precautions should be taken while changing soil in rooftop garden containers?"
+      },
+      {
+        "role": "assistant",
+        "content": "While changing soil in rooftop garden containers, care must be taken to avoid damaging the roots, stems, or seedlings. Gentle handling helps reduce plant stress and ensures healthy regrowth after soil replacement."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the provided context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nAn ideal soil mixture for rooftop gardening consists of sandy-loam soil, well-decomposed cow dung, vermicompost, sand, and a small amount of lime mixed in a balanced ratio (approximately 1:1:1). This combination ensures proper drainage, aeration, and nutrient availability.\n\nQuestion:\nWhat type of soil mixture is ideal for a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "An ideal soil mixture for rooftop gardening consists of sandy-loam soil, well-decomposed cow dung, vermicompost, sand, and a small amount of lime mixed in a balanced ratio (approximately 1:1:1). This combination ensures proper drainage, aeration, and nutrient availability."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the provided context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nWhen growing fruit trees in drums or boxes on rooftops, low-height and spreading tree varieties should be selected instead of tall plants like banana or papaya. Adequate shade using a 50-70% shade net installed 7-8 feet above the roof helps protect plants from excessive sunlight. Containers should be 2-3 feet wide and deep, have strong support, proper drainage, and be filled with high-quality potting media to allow healthy root development.\n\nQuestion:\nWhat should be considered when growing fruit trees in drums or boxes on rooftops?"
+      },
+      {
+        "role": "assistant",
+        "content": "When growing fruit trees in drums or boxes on rooftops, low-height and spreading tree varieties should be selected instead of tall plants like banana or papaya. Adequate shade using a 50-70% shade net installed 7-8 feet above the roof helps protect plants from excessive sunlight. Containers should be 2-3 feet wide and deep, have strong support, proper drainage, and be filled with high-quality potting media to allow healthy root development."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the provided context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nFor rooftop fruit cultivation, containers should be layered properly. The bottom layer should contain 3-4 inches of broken bricks or stones, followed by 2-3 inches of charcoal, then coconut husk, and another layer of coarse sand or small stones. The top 2-2.5 feet should be filled with good-quality potting media to ensure drainage, aeration, and strong root growth.\n\nQuestion:\nHow should containers be layered for planting fruit trees on rooftops?"
+      },
+      {
+        "role": "assistant",
+        "content": "For rooftop fruit cultivation, containers should be layered properly. The bottom layer should contain 3-4 inches of broken bricks or stones, followed by 2-3 inches of charcoal, then coconut husk, and another layer of coarse sand or small stones. The top 2-2.5 feet should be filled with good-quality potting media to ensure drainage, aeration, and strong root growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the provided context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nGuava fruits rot and fall prematurely with sawdust-like deposits near the stalk due to guava fruit borer or guava fruit fly infestation. Adult insects lay eggs under the fruit skin near the stalk. Larvae feed on the fruit pulp and seeds, producing sawdust-like waste.\n\nQuestion:\nWhy do guava fruits rot and fall prematurely with sawdust-like deposits near the stalk?"
+      },
+      {
+        "role": "assistant",
+        "content": "This problem is caused by guava fruit borer or guava fruit fly infestation. Adult insects lay eggs under the fruit skin near the stalk. The larvae feed on the fruit pulp and seeds, producing sawdust-like waste. As a result, fruits rot internally and fall off at both immature and mature stages."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the provided context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nTo control guava fruit borer, maintain garden cleanliness and apply balanced fertilizers twice a year. Prune dead and unnecessary branches after the rainy season. Collect and bury infested fruits and larvae. Harvest ripe fruits promptly. Spray approved insecticide such as Lambda-Cyhalothrin 2.5 EC at 1 ml per liter of water in three stages: before flowering, when fruits are pea-sized, and when fruits reach marble size.\n\nQuestion:\nHow can guava fruit borer infestation be controlled effectively?"
+      },
+      {
+        "role": "assistant",
+        "content": "To control guava fruit borer, maintain garden cleanliness and apply balanced fertilizers twice a year. Prune dead and unnecessary branches after the rainy season to improve airflow. Collect and bury infested fruits and larvae. Harvest ripe fruits promptly. Spray approved insecticide such as Lambda-Cyhalothrin 2.5 EC at 1 ml per liter of water in three stages: before flowering, when fruits are pea-sized, and again when fruits reach marble size."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the provided context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nThe main importance of rooftop gardening is producing fresh and safe vegetables and fruits while helping maintain environmental balance in urban areas.\n\nQuestion:\nWhat is the main importance of rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "The main importance of rooftop gardening is producing fresh and safe vegetables and fruits while helping maintain environmental balance in urban areas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are a strict RAG assistant for the Dr. Chashi application. You must answer using ONLY the provided context. If the answer is not explicitly stated in the provided context, reply exactly: 'The information is not available in the provided data.'"
+      },
+      {
+        "role": "user",
+        "content": "Context:\nRooftop gardens can provide healthy, chemical-free, and organic vegetables when managed properly.\n\nQuestion:\nAre healthy vegetables available from rooftop gardens?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens can provide healthy, chemical-free, and organic vegetables when managed properly."
+      }
+    ]
+  }
+]
+
+

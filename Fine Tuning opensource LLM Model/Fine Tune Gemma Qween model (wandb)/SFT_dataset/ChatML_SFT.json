@@ -1,0 +1,3980 @@
+[
+  {
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are Dr. Chashi Assistant, an AI that helps detect crop diseases and provides solutions for rooftop gardens and field crops."
+    },
+    {
+      "role": "user",
+      "content": "Hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! 👋 I am the Dr. Chashi Assistant. How can I help you today?"
+    },
+    {
+      "role": "user",
+      "content": "How are you?"
+    },
+    {
+      "role": "assistant",
+      "content": "I am fine, thank you! 😊 How can I assist you with your crops or garden?"
+    }
+  ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about the Dr. Chashi application for farmers and gardeners."
+      },
+      {
+        "role": "user",
+        "content": "What is Dr. Chashi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dr. Chashi is an AI-powered mobile Android application designed to help farmers and gardeners detect diseases and pests in rooftop gardens and field crops. It is the first AI-based digital system of its kind in Bangladesh, providing practical guidance and solutions for crop management."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about the Dr. Chashi application for farmers and gardeners."
+      },
+      {
+        "role": "user",
+        "content": "What does Dr. Chashi do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dr. Chashi identifies diseases and pests in rooftop gardens and field crops, including tomato, cucumber, and banana, and provides actionable solutions such as fertilizer management, irrigation adjustments, and pest control strategies."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about the Dr. Chashi application for farmers and gardeners."
+      },
+      {
+        "role": "user",
+        "content": "How does the Dr. Chashi app help farmers and gardeners?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dr. Chashi helps farmers and gardeners by detecting diseases and pests in rooftop gardens and field crops, and suggesting practical solutions like proper fertilizer use, irrigation management, and pest control methods to improve crop health and yield."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about the Dr. Chashi application for farmers and gardeners."
+      },
+      {
+        "role": "user",
+        "content": "Which crops can Dr. Chashi provide solutions for?"
+      },
+      {
+        "role": "assistant",
+        "content": "Currently, Dr. Chashi provides solutions for 41 major crops, including vegetables, fruits, and spices. The app helps users manage diseases and pests effectively, and additional crop details are available in the app features."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about the Dr. Chashi application for farmers and gardeners."
+      },
+      {
+        "role": "user",
+        "content": "How many crops are supported by the Dr. Chashi app?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dr. Chashi currently supports 41 major crops, providing guidance to manage diseases and pests effectively. Detailed crop information is available in the app features."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about the Dr. Chashi application for farmers and gardeners."
+      },
+      {
+        "role": "user",
+        "content": "Where can I download the Dr. Chashi app?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can download the Dr. Chashi app directly from the Google Play Store on any Android phone. Simply search for 'Dr. Chashi' and install it to access all features."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about the Dr. Chashi application for farmers and gardeners."
+      },
+      {
+        "role": "user",
+        "content": "How can I install Dr. Chashi on my Android device?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can install the Dr. Chashi app by searching for it on the Google Play Store and downloading it to your Android phone. Once installed, you can use it to detect crop diseases and pests."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about the Dr. Chashi application for farmers and gardeners."
+      },
+      {
+        "role": "user",
+        "content": "Is there any cost to use the Dr. Chashi app?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dr. Chashi app is completely free for all users across Bangladesh. However, you will need mobile data or an internet connection to access its features."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about the Dr. Chashi application for farmers and gardeners."
+      },
+      {
+        "role": "user",
+        "content": "Do I need to pay to use Dr. Chashi?"
+      },
+      {
+        "role": "assistant",
+        "content": "You do not need to pay to use the Dr. Chashi app. It is completely free, but an active internet connection or mobile data is required to access all features."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about the Dr. Chashi application for farmers and gardeners."
+      },
+      {
+        "role": "user",
+        "content": "How can I get more information about the Dr. Chashi app?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can get more information about the Dr. Chashi app by contacting its 24/7 helpline. The support team can guide you on app features, crop advice, and troubleshooting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about the Dr. Chashi application for farmers and gardeners."
+      },
+      {
+        "role": "user",
+        "content": "Is there a helpline for Dr. Chashi users?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, You can contact the Dr. Chashi 24/7 helpline to get assistance on app usage, crop management guidance, and answers to any questions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about the Dr. Chashi application for farmers and gardeners."
+      },
+      {
+        "role": "user",
+        "content": "Helpline for Dr. Chashi users?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can reach the Dr. Chashi 24/7 helpline for guidance on using the app, managing crops, and solving any related issues."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about Genius Farms Limited (GFL) for business and technology users."
+      },
+      {
+        "role": "user",
+        "content": "What is Genius Farms Limited (GFL)?"
+      },
+      {
+        "role": "assistant",
+        "content": "Genius Farms Limited (GFL) is an IT-based software company that provides innovative solutions in technology and agriculture, both within Bangladesh and internationally."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about Genius Farms Limited (GFL) for business and technology users."
+      },
+      {
+        "role": "user",
+        "content": "What does Genius Farms Limited (GFL) do?"
+      },
+      {
+        "role": "assistant",
+        "content": "Genius Farms Limited (GFL) operates both locally and internationally, offering services such as software customization, mobile app development, brand promotion, the application of AI, IoT, and drone technology in agriculture, e-commerce solutions, production of learning documentaries, online and offline training programs, and management of agricultural supply chains."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about Genius Farms Limited (GFL) for business and technology users."
+      },
+      {
+        "role": "user",
+        "content": "When did Genius Farms Limited (GFL) start its operations?"
+      },
+      {
+        "role": "assistant",
+        "content": "Genius Farms Limited (GFL) began its operations in 2020, and since then it has been actively providing technology-driven solutions and services both locally and internationally."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about Genius Farms Limited (GFL) for business and technology users."
+      },
+      {
+        "role": "user",
+        "content": "Where is the office of Genius Farms Limited (GFL)?"
+      },
+      {
+        "role": "assistant",
+        "content": "The office of Genius Farms Limited (GFL) is located at 572/K, Wasi Tower, ECB Chattar, Matikata, Dhaka-1206, Bangladesh."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about agricultural spray drones for farmers."
+      },
+      {
+        "role": "user",
+        "content": "Where and how can agricultural spray drone services be obtained?"
+      },
+      {
+        "role": "assistant",
+        "content": "Agricultural spray drone pilot services are currently available in Narsingdi and Manikganj. To book a service or get more details, please contact 01741122755."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about agricultural spray drones for farmers."
+      },
+      {
+        "role": "user",
+        "content": "I want to buy an agricultural drone. Where can I get it?"
+      },
+      {
+        "role": "assistant",
+        "content": "To purchase an agricultural spray drone, please contact 01741122755 for sales information and guidance on available models."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about agricultural spray drones for farmers."
+      },
+      {
+        "role": "user",
+        "content": "What benefits can be obtained from using spray drones in agriculture?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spray drones in agriculture offer multiple benefits: they can efficiently spread fertilizers and seeds, spray water, and apply all types of pesticides across fields, saving time and labor while improving crop coverage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about agricultural spray drones for farmers."
+      },
+      {
+        "role": "user",
+        "content": "What is the cost of agricultural spray drone services?"
+      },
+      {
+        "role": "assistant",
+        "content": "The cost of agricultural drone spraying services is approximately BDT 300-500 per bigha. Please note that farmers need to purchase the pesticides themselves, as the service covers only the spraying operation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about agricultural spray drones for farmers."
+      },
+      {
+        "role": "user",
+        "content": "How much time does agricultural drone spraying take?"
+      },
+      {
+        "role": "assistant",
+        "content": "Drone spraying typically takes between five to ten minutes per bigha of land, depending on field size, terrain, and the type of spray being applied."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about agricultural spray drones for farmers."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of an agricultural spray drone?"
+      },
+      {
+        "role": "assistant",
+        "content": "The price of an agricultural spray drone in Bangladesh ranges from BDT 300,000 to 400,000. These drones are assembled locally using Chinese components, offering reliable performance for crop spraying tasks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about soil sensors and IoT technologies in agriculture."
+      },
+      {
+        "role": "user",
+        "content": "What is the price of a soil sensor?"
+      },
+      {
+        "role": "assistant",
+        "content": "The price of a soil sensor generally ranges from BDT 40,000 to 80,000, depending on the sensor type, features, and measurement capabilities."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about soil sensors and IoT technologies in agriculture."
+      },
+      {
+        "role": "user",
+        "content": "What parameters does a soil sensor indicate?"
+      },
+      {
+        "role": "assistant",
+        "content": "A soil sensor can measure key soil parameters such as nitrogen, phosphorus, potassium (NPK), soil moisture, temperature, pH level, and salinity, helping farmers make informed decisions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about soil sensors and IoT technologies in agriculture."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take to determine soil components using a soil sensor?"
+      },
+      {
+        "role": "assistant",
+        "content": "A soil sensor typically takes about 10 to 15 minutes to analyze and determine soil components, depending on the device and testing conditions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about soil sensors and IoT technologies in agriculture."
+      },
+      {
+        "role": "user",
+        "content": "What is the accuracy of soil sensor testing?"
+      },
+      {
+        "role": "assistant",
+        "content": "Soil sensor testing generally provides an accuracy level of approximately 80% to 95%, which is sufficient for practical agricultural decision-making."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and actionable information about soil sensors and IoT technologies in agriculture."
+      },
+      {
+        "role": "user",
+        "content": "How can we obtain soil sensor services?"
+      },
+      {
+        "role": "assistant",
+        "content": "Soil sensor services can be obtained by directly contacting 01741122755 for availability, pricing details, and service support."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and timely weather and agricultural forecast information for farmers."
+      },
+      {
+        "role": "user",
+        "content": "Can I know in advance about rain, storms, fog, cold, or heat?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can receive advance information about weather conditions such as rain, storms, fog, cold, and heat. The Dr. Chashi app provides detailed weather forecasts for up to the next seven days to help with planning agricultural activities."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and timely weather and agricultural forecast information for farmers."
+      },
+      {
+        "role": "user",
+        "content": "How will I receive weather forecasts?"
+      },
+      {
+        "role": "assistant",
+        "content": "Weather forecasts and early warning alerts are sent directly to your mobile phone through the Dr. Chashi app, provided the application is installed and you have an active internet connection."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and timely weather and agricultural forecast information for farmers."
+      },
+      {
+        "role": "user",
+        "content": "Can I get advance warnings and advice on agricultural disasters?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can receive advance warnings along with advisory guidance on potential agricultural disasters. These alerts help farmers take preventive actions to reduce crop damage and losses."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on Good Agricultural Practices (GAP) for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What are the standards of Good Agricultural Practices in Bangladesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "The standards of Good Agricultural Practices in Bangladesh focus on: 1) producing safe fruits and vegetables, 2) ensuring high-quality agricultural products, 3) maintaining proper environmental management, and 4) protecting workers' health, safety, and overall welfare."
+      }
+    ]
+  },
+  {
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an AI assistant that provides accurate and practical guidance on Good Agricultural Practices (GAP) for farmers in Bangladesh."
+    },
+    {
+      "role": "user",
+      "content": "What are the four main pillars of Good Agricultural Practices?"
+    },
+    {
+      "role": "assistant",
+      "content": "The four main pillars of Good Agricultural Practices are: 1) food safety and improved product quality, 2) economic sustainability for farmers, 3) environmental sustainability, and 4) social acceptability, which includes fair labor practices and community responsibility."
+    }
+  ]
+ },
+ {
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an AI assistant that provides accurate and practical guidance on Good Agricultural Practices (GAP) for farmers in Bangladesh."
+    },
+    {
+      "role": "user",
+      "content": "What needs to be done while following Good Agricultural Practices?"
+    },
+    {
+      "role": "assistant",
+      "content": "Following Good Agricultural Practices involves: 1) testing soil and irrigation water before crop cultivation, 2) using organic fertilizers and organic pesticides, 3) taking preventive measures to avoid contamination during harvesting and post-harvest handling, and 4) ensuring that fruits and vegetables produced are safe and healthy for consumers."
+    }
+  ]
+ },
+ {
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an AI assistant that provides accurate and practical guidance on Good Agricultural Practices (GAP) for farmers in Bangladesh."
+    },
+    {
+      "role": "user",
+      "content": "What are the responsibilities of GAP farmers?"
+    },
+    {
+      "role": "assistant",
+      "content": "The responsibilities of GAP farmers include: 1) understanding and strictly following all rules, protocols, regulations, laws, and guidelines of Good Agricultural Practices; 2) applying these rules in the cultivation of selected GAP partner crops to ensure safe and nutritious food production while protecting the environment, ensuring social responsibility, and safeguarding workers' health; 3) maintaining proper knowledge about the history and condition of the selected land and surrounding areas; 4) testing soil and irrigation water before cultivation and applying fertilizers based on expert advice, with priority given to treated organic fertilizers; 5) using pollution-free and safe water for irrigation and cleaning harvested crops; 6) applying only approved pesticides at the correct dose, time, and method, with priority given to organic pesticides; 7) keeping the farm environment clean and ensuring proper sanitation and waste management to protect workers' health; 8) providing first-aid facilities, toilet facilities, and safe drinking water for all workers; 9) harvesting crops at the appropriate time and in the correct manner according to crop maturity indexes; 10) using organic and environmentally friendly pest control methods first, and applying government-approved pesticides only as a last resort while observing the required waiting period; 11) ensuring that post-harvest processing areas, materials, and water are free from contamination and follow proper guidelines; 12) cleaning, sorting, grading, and packaging products properly after harvesting; 13) maintaining personal hygiene of workers and strengthening farm biosecurity measures; 14) cleaning and properly storing tools, machinery, and equipment after farm work; 15) maintaining written records of all farm management and cultivation activities in the GAP farmer register or logbook for auditing; 16) obtaining GAP certification by following approved procedures to market agricultural products; and 17) seeking regular advice and guidance from trained GAP agricultural officers and partner officials for proper cultivation and marketing."
+    }
+  ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical information about agricultural training programs for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What types of training are provided?"
+      },
+      {
+        "role": "assistant",
+        "content": "The training programs cover a wide range of topics, including: 1) Agriculture and modern farming practices; 2) Environment and climate-related issues; 3) Agribusiness and farm-based entrepreneurship; 4) Crop diseases and pests along with their identification and solutions; and 5) Soil management, fertilizers, and proper use of pesticides."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical information about agricultural training programs for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is the training online or offline?"
+      },
+      {
+        "role": "assistant",
+        "content": "The training is conducted offline. Currently, there are no online training options available."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical information about agricultural training programs for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where should I contact if I want to receive training?"
+      },
+      {
+        "role": "assistant",
+        "content": "If you want to receive training or need further information, please contact 01741122755 directly."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical information about agricultural training programs for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What is the registration fee for training?"
+      },
+      {
+        "role": "assistant",
+        "content": "The registration fee for the training depends on the specific training topic. For exact fee details, please contact 01741122755 directly."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical information about agricultural training programs for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What is the duration of the training?"
+      },
+      {
+        "role": "assistant",
+        "content": "The duration of the training varies depending on the training topic. To know the exact duration, please contact 01741122755 directly."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical fertilizer management guidance for fruit crop cultivation in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "I want to know about fertilizer management in malta (sweet orange) cultivation."
+      },
+      {
+        "role": "assistant",
+        "content": "In malta (sweet orange) cultivation, fertilizer management should be done based on the age of the plant. About 15-20 days before planting, each planting pit should be prepared by thoroughly mixing well-decomposed cow dung, TSP, MOP, zinc, and boric acid with the soil. As the plant grows older, the quantity of fertilizer should be gradually increased. Fertilizers should be applied in three split applications each year to ensure proper nutrient availability and healthy plant growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical fertilizer management guidance for fruit crop cultivation in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is it correct to apply fertilizer during the rainy season?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, fertilizer can be applied during the rainy season. However, if rainfall is low or irregular, fertilizers should be applied in small amounts during the morning or afternoon. Applying a large amount of fertilizer at once is not recommended, as heavy rain may wash nutrients away before plants can absorb them."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical fertilizer management guidance for fruit crop cultivation in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which fertilizers are most effective during the rainy season?"
+      },
+      {
+        "role": "assistant",
+        "content": "During the rainy season, compost, cow dung, TSP, MOP, and bio-fertilizers are the most effective fertilizers. Urea should be used in smaller quantities because it dissolves quickly and can be easily washed away by rain, reducing its effectiveness."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical fertilizer management guidance for agricultural crops in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "I want to know about liquid fertilizer."
+      },
+      {
+        "role": "assistant",
+        "content": "Liquid fertilizer is a type of fertilizer that is mixed with water and applied directly to plant leaves or soil. It is quickly absorbed by plants and provides nutrients rapidly. Liquid fertilizers can be applied as a foliar spray or through irrigation systems. However, excessive or improper application may damage plant leaves or roots, so recommended doses should always be followed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical fertilizer management guidance for agricultural crops in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What is the fertilizer dose for dwarf coconut seedlings?"
+      },
+      {
+        "role": "assistant",
+        "content": "For dwarf coconut seedlings, at planting time 2-3 kg of well-decomposed cow dung or compost should be applied per pit. Nitrogen fertilizer (urea) should be applied at 20-30 g in 2-3 split doses around the seedling. Phosphorus fertilizer (SSP or TSP) at 20-25 g should be mixed into the pit during planting. Potash fertilizer (MOP or KCl) at 15-20 g should be mixed with the soil beside the seedling. If zinc or boron deficiency is observed, a small amount may be applied to the pit or as a foliar spray. After fertilizer application, the soil should be watered thoroughly."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical fertilizer management guidance for agricultural crops in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What is the method of preparing vermicompost?"
+      },
+      {
+        "role": "assistant",
+        "content": "To prepare vermicompost, first a pit measuring approximately 2 meters in length, 1 meter in width, and 1 meter in depth should be prepared. A shed made of tin or straw should be arranged over the pit to protect it from direct sunlight and rain. Aged and partially decomposed cow dung should then be placed in the pit, and about 2,000-3,000 earthworms should be released into it. The earthworms convert the organic material into granular vermicompost. After completion, the compost should be sieved, earthworms separated for reuse, and the finished vermicompost packed in bags or sacks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical fertilizer and plant nutrition guidance for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How can banana peels be used as fertilizer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Banana peels can be used as fertilizer by chopping them into small pieces and burying them near the base of plants. They can also be soaked in water for 3-5 days to prepare a liquid fertilizer, which can then be applied to the soil around plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical fertilizer and plant nutrition guidance for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Will there be any problem if banana peels are applied every day?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, applying banana peels every day may cause problems such as attracting flies or promoting fungal growth. Excessive application is not recommended, and applying banana peel fertilizer once a week is generally sufficient for plant nutrition."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical fertilizer and plant nutrition guidance for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which plants benefit most from banana peels?"
+      },
+      {
+        "role": "assistant",
+        "content": "Plants that benefit most from banana peels include flowering plants, chili, tomato, jackfruit, papaya, lemon, and other fruit-bearing plants due to the potassium and nutrients present in banana peels."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical fertilizer and plant nutrition guidance for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How long can liquid fertilizer made from banana peels be stored?"
+      },
+      {
+        "role": "assistant",
+        "content": "Liquid fertilizer made from banana peels can be stored for up to 7 days. Storing it for longer periods may cause a bad odor and increase the risk of fungal growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical fertilizer and plant nutrition guidance for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Why is vegetable cooking water beneficial for plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vegetable cooking water is beneficial for plants because it contains dissolved vitamins and minerals that plants can absorb easily, helping to improve plant growth when applied after cooling."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical fertilizer and plant nutrition guidance for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can salt water be applied to plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, salt water should not be applied to plants because salt is harmful and can damage plant roots, reduce water absorption, and negatively affect plant growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical fertilizer and plant nutrition guidance for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can hot water be applied to plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, hot water should not be applied to plants. Water must be allowed to cool completely before application, as hot water can damage plant roots and leaves."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical fertilizer and plant nutrition guidance for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which plants benefit most from vegetable cooking water?"
+      },
+      {
+        "role": "assistant",
+        "content": "Plants that benefit most from vegetable cooking water include leafy vegetables, vegetable crops, flowering plants, and money plants, as they can easily absorb the nutrients present in the water."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What nutrients are present in wood ash?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wood ash contains important plant nutrients such as potassium, calcium, and magnesium, which help improve soil fertility when applied properly."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which plants are suitable for applying wood ash?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wood ash is suitable for flower plants, fruit plants, sweet pumpkin, tomato, and chili plants, as these crops benefit from the potassium and minerals present in ash."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can wood ash be used on acid-loving plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, wood ash should not be used on acid-loving plants because it increases soil pH and can reduce the availability of nutrients required by these plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How should wood ash be applied to plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Wood ash should be applied lightly by sprinkling a small amount around plants and mixing it gently with the soil to avoid sudden changes in soil pH."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What happens if wood ash is applied in excess to plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "If wood ash is applied in excess, the soil pH may increase suddenly, which can damage plant roots and negatively affect plant growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can tea leaves be applied to all plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, tea leaves should not be applied to all plants because they contain tannins. Excessive use can make the soil too acidic and harm certain plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can yeast be used on vegetable plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, yeast can be used on vegetable plants, but it should be applied only once a month. Excessive use may promote fungal growth in the soil."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can orange peels be applied directly to the soil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, orange peels can be applied to the soil, but it is best to dry them first and grind them into powder before application to improve decomposition and nutrient release."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and soil health for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What are the benefits of using orange peels in soil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Using orange peels in soil improves soil nutrient quality and helps repel insects. Orange peels contain essential nutrients such as nitrogen and potassium that support healthy plant growth. In addition, natural compounds in orange peels act as mild pesticides, reducing insect infestation in the garden."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and soil health for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What is neem cake?"
+      },
+      {
+        "role": "assistant",
+        "content": "Neem cake is a natural and organic agricultural byproduct obtained after extracting oil from neem seeds. It works as a fertilizer, natural pesticide, and soil conditioner."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and soil health for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Why is neem cake used in agriculture?"
+      },
+      {
+        "role": "assistant",
+        "content": "Neem cake is used in agriculture because it supplies nutrients to plants, protects crops from harmful insects, and improves overall soil fertility."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and soil health for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How does neem cake work as a fertilizer?"
+      },
+      {
+        "role": "assistant",
+        "content": "Neem cake works as a fertilizer by providing essential plant nutrients such as nitrogen, phosphorus, and potassium. It strengthens plant roots, promotes denser leaf growth, and increases flower and fruit production."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and soil health for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is neem cake effective as a pesticide?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, neem cake is effective as a natural pesticide. It helps protect plants from ants, grubs, fungi, and other harmful insects present in the soil."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and soil health for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How is neem cake beneficial for soil health?"
+      },
+      {
+        "role": "assistant",
+        "content": "When neem cake is mixed into the soil, it improves soil fertility and keeps beneficial soil microorganisms active, which supports long-term soil health and sustainable crop production."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and organic soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is neem cake completely natural?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, neem cake is completely natural and environmentally friendly. It is produced from neem seeds without the use of any chemical additives."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and organic soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Will using neem cake increase farming or gardening costs?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, neem cake is cost-effective. It provides long-term benefits by improving soil fertility and reducing pest problems, which helps lower overall input costs."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and organic soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How should neem cake be used in rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "In rooftop gardening, neem cake can be mixed into the soil of pots or planter boxes. Light application every 10-15 days gives good results without harming plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and organic soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can excessive use of neem cake cause harm to plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generally, neem cake does not cause harm. However, excessive use of neem cake may temporarily change the soil pH, so it should be applied in moderate amounts."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and organic soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "For which plants is neem cake most suitable?"
+      },
+      {
+        "role": "assistant",
+        "content": "Neem cake is suitable for fruit plants, vegetable crops, flowering plants, and indoor plants, making it a versatile organic input."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and organic soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What is ground peanut oil cake?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ground peanut oil cake is the solid material left after extracting oil from peanuts. When dried and ground, it is used as an organic fertilizer and natural pesticide."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and organic soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is ground peanut oil cake safe for plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, ground peanut oil cake is completely natural and organic. When used in the correct amount, it does not harm plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and organic soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Does ground peanut oil cake work as a natural pesticide?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, ground peanut oil cake works as a natural pesticide by suppressing harmful underground insects, nematodes, and soil-borne fungi."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and organic soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which crops or plants can ground peanut oil cake be used on?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ground peanut oil cake can be used on vegetables, fruit trees, flowering plants, leafy vegetables, climbers, and perennial plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and organic soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How should ground peanut oil cake be mixed into the soil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mix 1-2 handfuls of ground peanut oil cake powder per pot into the soil during soil preparation. Mixing it 7-10 days before planting allows proper decomposition."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on natural fertilizers and organic soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How can liquid fertilizer be made from ground peanut oil cake?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make liquid fertilizer, soak 1 kg of ground peanut oil cake powder in 5 liters of water for 4-5 days. Strain the liquid and apply it to the plant base or as a foliar spray."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How often can ground peanut oil cake be used in a week?"
+      },
+      {
+        "role": "assistant",
+        "content": "Liquid fertilizer made from ground peanut oil cake is sufficient when applied once every 10-15 days. Powdered oil cake mixed into the soil should be applied only once a month."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Will there be problems if too much ground peanut oil cake is applied?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, excessive application of ground peanut oil cake can cause root rot and encourage excessive bacterial growth in the soil. Therefore, it should always be used in moderate amounts."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How long does liquid fertilizer made from ground peanut oil cake remain usable?"
+      },
+      {
+        "role": "assistant",
+        "content": "Liquid fertilizer made from ground peanut oil cake should be used within 5-7 days. Storing it longer can produce a strong odor and gas due to fermentation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can ground peanut oil cake repel small insects?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the mild but strong natural smell of ground peanut oil cake helps repel many small insects from the soil and plant base."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which plants should ground peanut oil cake not be used on?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ground peanut oil cake should be used very sparingly or avoided for plants that require little water, such as succulents, because it can retain excess moisture in the soil."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Does ground peanut oil cake improve soil structure?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, ground peanut oil cake improves soil structure by loosening compacted soil, increasing water-holding capacity, and promoting the growth of beneficial soil bacteria."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What benefits are obtained by regular use of ground peanut oil cake in rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Regular use of ground peanut oil cake in rooftop gardening helps plants grow faster, makes leaves greener, increases flower and fruit production, and reduces pest and disease attacks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What are coffee grounds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Coffee grounds are the leftover residue of coffee powder after brewing coffee. These used coffee grounds can be reused for various purposes, including soil improvement and composting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can coffee grounds be used on all plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, coffee grounds are best for plants that prefer neutral or slightly acidic soil, such as roses, tomatoes, and money plants. They should not be used on plants that prefer alkaline soil."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Does applying coffee grounds directly to the soil cause problems?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, applying too much coffee ground directly to the soil can make the soil hard and compact. Therefore, only a small amount should be mixed properly with the soil."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Do coffee grounds help repel insects?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, coffee grounds help repel certain insects, especially ants and snails, due to their smell and texture."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How can liquid fertilizer be made using coffee grounds?"
+      },
+      {
+        "role": "assistant",
+        "content": "To make liquid fertilizer, soak coffee grounds in water for about 24 hours, then strain the liquid and use it to water plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can coffee grounds be used every day?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, coffee grounds should not be used every day. Applying them once or twice a month is sufficient for healthy plant growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What nutrients are present in eggshells?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eggshells are rich in calcium, which helps strengthen plant cell walls and supports healthy root and stem development."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How should eggshells be applied to the soil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Eggshells should be dried, ground into a fine powder, and then mixed evenly into the soil so plants can absorb calcium effectively."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Are eggshells beneficial for vegetable plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, eggshells are especially beneficial for vegetables like tomato, chili, and eggplant, as their high calcium content helps reduce blossom end rot."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Does excessive application of eggshells cause problems for plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, excessive use of eggshells may increase soil pH, which can reduce nutrient availability for some plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "For which plants is vinegar beneficial?"
+      },
+      {
+        "role": "assistant",
+        "content": "Vinegar is beneficial for acid-loving plants such as roses and blueberries when used in a properly diluted form."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Should vinegar be applied directly to plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, vinegar should never be applied directly. Mix one tablespoon of vinegar in one liter of water before applying to plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can all household fertilizers be applied together to plants?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, household fertilizers should not be applied together. They should be used on different days of the week to avoid harming plants and soil balance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on organic fertilizers and soil management for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Are household fertilizers a substitute for chemical fertilizers?"
+      },
+      {
+        "role": "assistant",
+        "content": "Household fertilizers can partially replace chemical fertilizers, but depending on the plant type and growth stage, a balanced use of both is often necessary."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties, seeds, and seedling selection for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Want to know about the best varieties for papaya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some of the best varieties of papaya are BARI Papaya-1 (Shahi Papaya), Red Lady, and Sweety. BARI Papaya-1 was developed by the Bangladesh Agricultural Research Institute. Red Lady is a high-yielding hybrid variety from Taiwan that is suitable for the climate of Bangladesh. Sweety is a virus-resistant variety that produces tasty fruits."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties, seeds, and seedling selection for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Want to know about good varieties of winter corn?"
+      },
+      {
+        "role": "assistant",
+        "content": "Among the good varieties of winter corn, BARI Hybrid Corn-5 is a high-yielding and protein-rich variety that can produce 9-10 tons per hectare during the Rabi season. Other good varieties include Barnaali, Shuvra, and Khai Corn developed by the Bangladesh Wheat and Maize Research Institute. In addition, improved hybrid varieties such as United-55 are also available in the market."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties, seeds, and seedling selection for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can I get sunflower seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sunflower seeds can be collected from local seed shops, nearby farmers, and reliable online seed sellers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties, seeds, and seedling selection for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Want to know about good varieties of sunflowers?"
+      },
+      {
+        "role": "assistant",
+        "content": "BARI Sunflower-2 is a good variety recommended for Bangladesh. The stem diameter is 2.0-2.4 cm, and the mature flower head diameter is 15-18 cm. The seeds are black, with a 1000-seed weight of 65-70 grams. Each head contains 450-650 seeds, and the oil content is 42-44%. The crop duration is 95-100 days in the Rabi season and 90-95 days in the Kharif season. The yield is 2.0-2.3 tons per hectare in the Rabi season and 1.5-1.8 tons per hectare in the Kharif season."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties, seed selection, and cultivation practices for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Want to know more about Red Lady Papaya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Red Lady is a high-yielding dwarf hybrid papaya variety from Taiwan. It is easy to cultivate and has good disease resistance. The plant grows up to about 10 feet tall and starts bearing fruit at a height of 60-80 cm. It begins flowering and fruiting within 100-120 days, and fruits can be harvested within 130-140 days. Each tree can bear approximately 70-150 fruits and produce more than 80-100 kg of fruit per year. The fruits are sweet in taste and suitable for commercial cultivation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties, seed selection, and cultivation practices for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Want to know about good varieties of sajeena?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some good varieties of sajeena include PKS-2 and BARI Sajeena-1. The PKS-2 variety starts producing fruits within about 6 months of planting and bears fruit throughout the year. A single tree can produce up to 1,600 fruits annually, yielding approximately 2 maunds of sajeena per year, making it suitable for commercial cultivation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties, seed selection, and cultivation practices for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can I get Bilati coriander seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bilati coriander seeds can be collected from government horticulture centers or nearby offices of the Bangladesh Agricultural Research Institute or other agricultural extension offices."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties, seed selection, and cultivation practices for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What is the right time to make a graft on a lemon tree?"
+      },
+      {
+        "role": "assistant",
+        "content": "The best time to graft a lemon tree is from May to July. During this period, air humidity is high and plant cell activity is strong, which helps the graft heal quickly and increases the success rate. Grafting can also be done at other times of the year, but proper humidity must be maintained for successful grafting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties, seed selection, and cultivation practices for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Want to know about the best quality high-yielding variety of mustard?"
+      },
+      {
+        "role": "assistant",
+        "content": "Currently, BARI Sarisha-18 is one of the best high-quality and high-yielding mustard varieties in Bangladesh. It can produce 30-60% higher yield compared to conventional varieties. It is a canola-type mustard that produces high-quality edible oil. Another recommended variety is BARI Sarisha-14, which is also suitable for cultivation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties and cultivation practices for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which variety is the best for bean cultivation?"
+      },
+      {
+        "role": "assistant",
+        "content": "Several BARI-released bean varieties perform very well in Bangladesh. Recommended varieties include BARI Shim-1, BARI Shim-2, BARI Shim-3 (summer), BARI Shim-4, BARI Shim-5, BARI Shim-6, BARI Shim-7 (summer), and BARI Shim-8. In addition, the Kerala variety is popular because it can yield for up to 12 months and performs especially well in small cultivation areas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties and cultivation practices for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which is a good variety of onion?"
+      },
+      {
+        "role": "assistant",
+        "content": "BARI Pata Onion-1 is a good and widely recommended onion variety in Bangladesh. It is suitable for local growing conditions and provides good yield."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties and cultivation practices for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What are the good varieties of early potatoes?"
+      },
+      {
+        "role": "assistant",
+        "content": "Good varieties of early potatoes include BARI Alu-8 (locally known as Cardinal) and BARI Alu-13. In addition, high-yielding varieties such as BARI Alu-12 and BARI Alu-14 are also suitable for early cultivation because they have a shorter growth duration and produce good yields."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties and cultivation practices for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "The seedbed has been destroyed in the flood. There is no time to make new seedbeds. What other crops can be grown?"
+      },
+      {
+        "role": "assistant",
+        "content": "If seedbeds are destroyed and there is no time to prepare new ones, farmers can grow direct-seeded crops such as leafy vegetables, spinach, amaranth, radish, okra, cucumber, pumpkin, and other quick-growing vegetables that do not require transplanting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties and cultivation practices for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can autumn vegetables be grown?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, autumn vegetables can be grown successfully. Suitable autumn vegetables include bottle gourd, bitter gourd, snake gourd, pumpkin, cucumber, okra, and various leafy vegetables, provided proper soil preparation and timely planting are ensured."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on crop varieties and cultivation practices for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What are the varieties of summer tomatoes and when should they be planted?"
+      },
+      {
+        "role": "assistant",
+        "content": "Recommended summer tomato varieties include BARI Tomato-5, BARI Tomato-6, BARI Tomato-11, BARI Tomato-14, BARI Hybrid Tomato-4, BARI Hybrid Tomato-8, BARI Hybrid Tomato-10, and Mintu Hybrid. For summer cultivation, tomato seeds should be sown during May to June."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "I want to know about the jute variety named Rabi-1."
+      },
+      {
+        "role": "assistant",
+        "content": "Rabi-1 is a newly developed improved variety of jute created by making slight genetic modifications to conventional Tosha jute. This variety produces better fiber quality and higher yield compared to ordinary Tosha jute. Rabi-1 plants grow at least 20 cm taller than traditional Tosha jute, contain about 20 percent more fiber, and produce brighter-colored fiber. While ordinary Tosha jute requires around 120 days to harvest, Rabi-1 can be harvested in about 100 days. Early harvesting allows farmers to cultivate Aman rice on the same land. Unlike traditional Tosha jute, which has a thin tip and thick base, Rabi-1 has a more uniform stem structure. Its yield is approximately 20–30 percent higher than indigenous Tosha and Indian jute varieties."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which is the most modern or advanced variety of jute and what are its characteristics?"
+      },
+      {
+        "role": "assistant",
+        "content": "BJRI Tosha Jute-6 (O-3820) is considered one of the most modern and advanced jute varieties in Bangladesh. This variety is photosensitive and fast-growing, with early maturity and high yield potential. The plant is completely green with long, bulb-shaped leaves. The seeds are bluish-green in color and are suitable for line sowing. BJRI Tosha Jute-6 produces high-quality fiber with a bright golden color, making it highly desirable for commercial cultivation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "When is the best time to graft trees and which trees can be grafted?"
+      },
+      {
+        "role": "assistant",
+        "content": "The summer and rainy seasons are the most suitable times for grafting trees. The best period for grafting is from May to July, as humidity levels are high during this time, which increases grafting success. Fruit trees such as mango, jackfruit, litchi, jamrul, pomegranate, rose apple, lemon, guava, olive, star fruit (kamaranga), amalaki, and plum can be successfully grafted during this period."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What is the ideal distance for planting litchi seedlings?"
+      },
+      {
+        "role": "assistant",
+        "content": "The ideal spacing for planting litchi seedlings is usually 8 meters x 8 meters or 10 meters x 10 meters. This spacing allows proper canopy development, good air circulation, and better fruit production as the trees grow."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How many litchi seedlings can be planted in one hectare of land?"
+      },
+      {
+        "role": "assistant",
+        "content": "Approximately 156 to 157 litchi seedlings can be planted in one hectare of land when using a spacing of 8 meters x 8 meters."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How long does it take for litchi seedlings to start bearing fruit?"
+      },
+      {
+        "role": "assistant",
+        "content": "Grafted litchi seedlings usually start bearing fruit within 3 to 4 years after planting, provided proper management and care are ensured."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "When is the right time to plant litchi seedlings?"
+      },
+      {
+        "role": "assistant",
+        "content": "The right time to plant litchi seedlings is after the monsoon season ends, when the soil remains sufficiently moist. In Bangladesh, this is usually between March and April."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What are the popular litchi varieties in Bangladesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Popular litchi varieties in Bangladesh include China-3, Bombay, Bedana, Madraji, Mangalbari, Muzaffarpuri, Kadmi, BARI Litchi-1, BARI Litchi-2, and BARI Litchi-3. Among these, China-3 is the most popular variety because it is early maturing and produces high-quality fruits."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can short coconut seedlings be planted in a tub on the roof?"
+      },
+      {
+        "role": "assistant",
+        "content": "Short or dwarf coconut seedlings can be planted in tubs on rooftops if the container is sufficiently large. However, agricultural experts generally advise against planting coconut trees on rooftops due to their long-term size, weight, and root system, which may cause structural risks."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What is banana mango?"
+      },
+      {
+        "role": "assistant",
+        "content": "Banana mango is a mango variety originally from Thailand. The fruit is long in shape like a banana and turns yellow to pink when ripe. It has a thin skin, strong mango aroma, and excellent taste. The sweetness level is around 19-20 TSS, with about 83% edible portion. Its yield is more than double that of many conventional mango varieties. Banana mango is easy to cultivate and usually appears in the market after June, when the supply of other quality mangoes declines."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is Surjo Dim or Miyazaki mango available in Bangladesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, Surjo Dim or Miyazaki mango, also known as 'Red Mango' in the international market, is available in Bangladesh. It is currently being cultivated in suitable regions of the country, especially in hilly areas such as Khagrachari, where the climate supports its commercial production."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can I get squash seeds and what is a recommended variety?"
+      },
+      {
+        "role": "assistant",
+        "content": "The recommended squash variety released by the Bangladesh Agricultural Research Institute is BARI Squash-1. In addition, several private seed companies in Bangladesh market hybrid squash seeds, which are also available in agricultural input shops."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can I get Lucky Bamboo and what should I know about it?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lucky Bamboo is available in plant nurseries, online plant shops, and home furnishing stores. Although it looks like bamboo, it is actually an indoor ornamental plant called Dracaena sanderiana. It can be easily grown in water or soil-filled tubs and is commonly considered a symbol of good luck and prosperity."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which pepper varieties are suitable for cultivation throughout the year?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pepper varieties suitable for year-round cultivation include Hot Master, Mallika 117, Jamuna, and Chatak (upright variety). These varieties perform well under different seasonal conditions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which pepper variety is the most spicy and where can I get its seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kamranga pepper is considered one of the most spicy pepper varieties in Bangladesh. The fruits are elliptical in shape and very pungent. In some districts, it is also known as Bombay pepper. Seeds can usually be obtained from local farmers or regional agricultural markets."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which tomato varieties are best for summer cultivation?"
+      },
+      {
+        "role": "assistant",
+        "content": "The best tomato varieties for summer cultivation include BARI Hybrid Tomato-4, BARI Hybrid Tomato-8, and BARI Hybrid Tomato-10. These varieties are heat-tolerant and suitable for summer growing conditions."
+      }
+    ]
+  },
+  {
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an AI assistant that provides accurate and practical agricultural information for farmers in Bangladesh."
+    },
+    {
+      "role": "user",
+      "content": "Which horticulture center can sweet tamarind be found?"
+    },
+    {
+      "role": "assistant",
+      "content": "horticulture center can sweet tamarind be found on: 1) Although the sweet tamarind variety named 'BARI Tamarind-1' is cultivated in the country, its cultivation has not increased as expected even in the last 8 years. The main problem is that it has not been possible to reach the farmers with sufficient seedlings. Although the Agriculture Department has been distributing free seedlings on various days and encouraging them to plant at least 3-5 sweet tamarind trees in mixed fruit gardens, the interest of the farmers is comparatively low as it is a long-term crop., 2) Currently, tamarind is being cultivated on about 302 hectares of land in Bandarban district, where the average yield per hectare is 19 metric tons. A production target of about 600 metric tons has been set for the current season. Two types of tamarind are available in the gardens of the district - the common local improved variety and the sweet tamarind. However, the production of sweet tamarind is still very limited., 3) Usually, the tree flowers and bears fruit within 5-6 years of planting. However, if grafted seedlings are used, it is possible to get fruits earlier with proper care."
+    }
+  ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can BT brinjal seeds be stored?"
+      },
+      {
+        "role": "assistant",
+        "content": "To store BT brinjal seeds, collect the fruits before they are fully mature. The fruit should be fully grown but the seeds not yet hard, and the skin should be bright and shiny. Overripe fruit becomes greenish-yellow or copper, with a hard, spongy shell. Press the fruit lightly: if it returns to its shape, it is young; if soft with a fingerprint, it is ready to harvest. Seeds harvested from very young fruits are high quality, though yield is lower. The fruit is ready to eat 1 month after flowering, with a yield of 17–64 tons per hectare depending on the variety."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can you get Chinese Durba grass seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chinese Durba grass seeds are available in agricultural nurseries and online agricultural product websites in Bangladesh."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can you get carpet grass seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carpet grass seeds are available in well-established nurseries in almost every district of Bangladesh."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "I want to know the names of some early varieties of cauliflower."
+      },
+      {
+        "role": "assistant",
+        "content": "Some early varieties of cauliflower include Early Snowball and Paushali."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Name some varieties of chili peppers."
+      },
+      {
+        "role": "assistant",
+        "content": "Popular chili pepper varieties include Naga Bombay chili, Black chili, Bullet chili, Dhanua chili, Raw chili, Bijli chili, and Thai white chili."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which is the best variety of sweet pumpkin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Popular sweet pumpkin varieties include BARI Sweet Pumpkin-1, BARI Sweet Pumpkin-2, Black Emperor (F1 hybrid), and Sweet Ball."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can BT brinjal seeds be stored, and how?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, BT brinjal seeds can be stored. Collect the fruits before they are fully mature: the fruit should be fully grown but the seeds not yet hard. The skin should be bright and shiny. Avoid overripe fruits, which have a hard and spongy shell. To check readiness, press the fruit gently with two fingers: if it springs back, the seeds are good for storage. Harvesting seeds from slightly immature fruits ensures better quality, although yields may be lower. BT brinjal fruits are ready to eat about 1 month after flowering, with a yield of 17-64 tons per hectare depending on the variety."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can I get Chinese Durba grass seeds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Chinese Durba grass seeds are available at nurseries and online agricultural product stores."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can I find carpet grass seeds in Bangladesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Carpet grass seeds can be found in well-stocked nurseries across all districts in Bangladesh."
+      }
+    ]
+  },
+  {
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+    },
+    {
+      "role": "user",
+      "content": "What are the commonly grown local varieties of oranges in Bangladesh?"
+    },
+    {
+      "role": "assistant",
+      "content": "Commonly grown local improved varieties of oranges in Bangladesh include Nagpuri and Khasia. These varieties are well adapted to local growing conditions and are widely cultivated."
+    }
+  ]
+  },
+  {
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+    },
+    {
+      "role": "user",
+      "content": "Which cauliflower varieties mature early and are suitable for cultivation in Bangladesh?"
+    },
+    {
+      "role": "assistant",
+      "content": "Early-maturing cauliflower varieties suitable for cultivation in Bangladesh include Early Snowball and Paushali. These varieties develop quickly and can be harvested sooner than standard varieties."
+    }
+  ]
+ },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What are the popular chili pepper varieties in Bangladesh?"
+      },
+      {
+        "role": "assistant",
+        "content": "Popular chili pepper varieties include Naga Bombay chili, Black chili, Bullet chili, Dhanua chili, Raw chili, Bijli chili, and Thai white chili."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical agricultural guidance for farmers and gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which varieties of sweet pumpkin are recommended?"
+      },
+      {
+        "role": "assistant",
+        "content": "Recommended sweet pumpkin varieties are BARI Sweet Pumpkin-1, BARI Sweet Pumpkin-2, Black Emperor (F1 hybrid), and Sweet Ball."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban residents in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What is meant by a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "A rooftop garden refers to the scientific cultivation of flowers, fruits, and vegetables on the roof or balcony of a concrete (pucca) building."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban residents in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What is the English term for a roof garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "The English term for a roof garden is 'Rooftop Garden'."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban residents in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What is the main purpose of establishing a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "The main purposes of a rooftop garden are to improve the natural environment, produce fresh food, and enhance the aesthetic beauty of urban spaces."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban residents in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can a rooftop garden be established?"
+      },
+      {
+        "role": "assistant",
+        "content": "A rooftop garden can be established on rooftops, balconies, verandas, cornices, or any available open space of a building."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban residents in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What are the benefits of rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rooftop gardening helps create greenery in urban areas, supports food production, and contributes to temperature control and environmental balance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban residents in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What types of plants can be grown in a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "A rooftop garden can include flowers, fruit plants, vegetables, and creeping or climbing vegetable crops."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban residents in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is rooftop gardening only a hobby activity?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, rooftop gardening is not limited to a hobby. It can also be practiced for food production, environmental improvement, and sustainable urban living."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What should be the ideal size of a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "The size of a rooftop garden depends on the available space. It can range from a small area of 1-2 square meters to the entire rooftop, as long as proper planning and weight considerations are maintained."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What are the most important requirements for starting a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "The key requirements for a rooftop garden include adequate sunlight, good-quality soil, suitable pots or containers, regular water supply, proper drainage, and consistent garden care."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "When is the best time to start a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "A rooftop garden can be started in any season. However, extra precautions are needed during the rainy season and winter to manage excess water, temperature stress, and plant protection."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is any permission required to set up a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "In most cases, no government permission is required to set up a rooftop garden. However, permission from the building owner or house owner is necessary."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How much weight can a rooftop safely support for gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Generally, a typical rooftop can support about 30-40 kilograms per square foot. If heavy containers or concrete pots are used, consulting a structural engineer is recommended for safety."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Are there any books or mobile apps that can help with rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, the Dr. Chashi mobile application provides useful guidance and information related to rooftop gardening and crop management."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What types of pots or containers are suitable for rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Commonly used containers for rooftop gardening include tubs, half drums, concrete or ceramic pots, and plastic drums, depending on plant size and weight capacity."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What type of soil mixture is best for tubs or containers?"
+      },
+      {
+        "role": "assistant",
+        "content": "A suitable soil mixture for tubs includes loamy soil mixed with organic fertilizer and compost to ensure good drainage, nutrient availability, and healthy root growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How should water drainage be managed in rooftop garden tubs?"
+      },
+      {
+        "role": "assistant",
+        "content": "To ensure proper drainage, tubs or containers must have drainage holes at the bottom so that excess water can flow out and prevent root rot."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How should soil be filled in a half drum for rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "A half drum should be filled with a mixture of about two-thirds loamy soil and well-rotted cow dung or compost to support healthy plant growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening for urban farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How often should the soil in rooftop garden containers be replaced?"
+      },
+      {
+        "role": "assistant",
+        "content": "The soil in rooftop garden containers should be replaced every year or at least once after one year to maintain soil fertility and reduce pest and disease buildup."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical rooftop gardening guidance for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What precautions should be taken while changing soil in rooftop garden containers?"
+      },
+      {
+        "role": "assistant",
+        "content": "While changing soil in rooftop garden containers, care must be taken to avoid damaging the roots, stems, or seedlings. Gentle handling helps reduce plant stress and ensures healthy regrowth after soil replacement."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical rooftop gardening guidance for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What type of soil mixture is ideal for a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "An ideal soil mixture for rooftop gardening consists of sandy-loam soil, well-decomposed cow dung, vermicompost, sand, and a small amount of lime mixed in a balanced ratio (approximately 1:1:1). This combination ensures proper drainage, aeration, and nutrient availability."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical rooftop gardening guidance for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What should be considered when growing fruit trees in drums or boxes on rooftops?"
+      },
+      {
+        "role": "assistant",
+        "content": "When growing fruit trees in drums or boxes on rooftops, low-height and spreading tree varieties should be selected instead of tall plants like banana or papaya. Adequate shade using a 50-70% shade net installed 7-8 feet above the roof helps protect plants from excessive sunlight. Containers should be 2-3 feet wide and deep, have strong support, proper drainage, and be filled with high-quality potting media to allow healthy root development."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical rooftop gardening guidance for farmers and home gardeners in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How should containers be layered for planting fruit trees on rooftops?"
+      },
+      {
+        "role": "assistant",
+        "content": "For rooftop fruit cultivation, containers should be layered properly. The bottom layer should contain 3-4 inches of broken bricks or stones, followed by 2-3 inches of charcoal, then coconut husk, and another layer of coarse sand or small stones. The top 2-2.5 feet should be filled with good-quality potting media to ensure drainage, aeration, and strong root growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical plant disease and pest management guidance for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Why do guava fruits rot and fall prematurely with sawdust-like deposits near the stalk?"
+      },
+      {
+        "role": "assistant",
+        "content": "This problem is caused by guava fruit borer or guava fruit fly infestation. Adult insects lay eggs under the fruit skin near the stalk. The larvae feed on the fruit pulp and seeds, producing sawdust-like waste. As a result, fruits rot internally and fall off at both immature and mature stages."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical plant disease and pest management guidance for farmers in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How can guava fruit borer infestation be controlled effectively?"
+      },
+      {
+        "role": "assistant",
+        "content": "To control guava fruit borer, maintain garden cleanliness and apply balanced fertilizers twice a year. Prune dead and unnecessary branches after the rainy season to improve airflow. Collect and bury infested fruits and larvae. Harvest ripe fruits promptly. Spray approved insecticide such as Lambda-Cyhalothrin 2.5 EC at 1 ml per liter of water in three stages: before flowering, when fruits are pea-sized, and again when fruits reach marble size."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and environmental sustainability in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What is the main importance of rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "The main importance of rooftop gardening is producing fresh and safe vegetables and fruits while helping maintain environmental balance in urban areas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and environmental sustainability in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Are healthy vegetables available from rooftop gardens?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens can provide healthy, chemical-free, and organic vegetables when managed properly."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and environmental sustainability in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can rooftop gardening help generate additional income?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardening can generate additional income by selling surplus vegetables, fruits, and flowers grown on the roof."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and environmental sustainability in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Does rooftop gardening create employment opportunities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardening creates employment opportunities in areas such as nurseries, container preparation, plant maintenance, and gardening services."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and environmental sustainability in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can rooftop gardens help reduce mental stress?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, spending time with plants in a rooftop garden helps reduce mental stress and provides relaxation and emotional well-being."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and environmental sustainability in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Do rooftop gardens help reduce environmental pollution?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens help reduce air pollution and lower surrounding temperatures by increasing greenery and improving air quality."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and environmental sustainability in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Do rooftop gardens support biodiversity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens support biodiversity by attracting bees, butterflies, birds, and other beneficial organisms."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and environmental sustainability in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Does rooftop gardening reduce roof temperature?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens can reduce roof temperature by approximately 3-5°C through shading and evapotranspiration."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and environmental sustainability in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can rooftop gardens help save electricity?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens help save electricity because cooler buildings require less use of air conditioners and fans."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and environmental sustainability in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Do rooftop gardens help utilize unused urban spaces?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens help utilize unused roof spaces and partially compensate for the loss of open land due to urban infrastructure development."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and environmental sustainability in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What role do rooftop gardens play in increasing greenery in cities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rooftop gardens play a very important role in increasing urban greenery, especially as open land in cities continues to decrease."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and sustainable living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Are rooftop gardens beneficial for children's education?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens are very beneficial for children's education as they help children learn about plants, nature, and basic agricultural practices through hands-on experience."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and sustainable living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can rooftop gardens contribute to family food security?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens can contribute to family food security by meeting a portion of household vegetable and fruit needs through self-production."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and sustainable living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can rooftop gardens help retain water and regulate the local climate?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens help retain rainwater and create a favorable microclimate, as plants reduce heat and improve moisture retention."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and sustainable living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Do rooftop gardens help reduce noise pollution?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens can help reduce noise pollution to some extent, as plants and soil absorb and block sound."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and sustainable living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can rooftop gardens extend the lifespan of buildings?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens can extend the lifespan of buildings by protecting the roof from direct sunlight, heat, and temperature fluctuations."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and sustainable living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Does a rooftop garden improve the visual beauty of a house?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, a rooftop garden enhances the beauty of a house by adding greenery, flowers, and a soothing natural atmosphere."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and sustainable living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How does flower cultivation benefit a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Flower cultivation enhances the beauty of a rooftop garden, attracts bees and beneficial insects, and improves pollination for other plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and sustainable living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Does gardening help improve physical fitness?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, gardening involves light physical activity that keeps the body active and helps improve overall physical fitness."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and sustainable living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is it possible to practice rooftop gardening at a low cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardening can be started at a low cost using tubs, cocopeat, recycled containers, and organic fertilizers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and sustainable living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can rooftop gardens help ensure proper nutrition for families?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens help ensure better nutrition by providing fresh, high-quality vegetables and fruits for family consumption."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and sustainable living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Why is rooftop gardening important in urban life?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rooftop gardening is important in urban life because it provides mental peace, greenery, and a connection with nature amid busy city lifestyles."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and climate-resilient living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can rooftop gardens help combat climate change?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens help combat climate change by absorbing carbon dioxide and reducing ambient temperatures through shading and evapotranspiration."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and climate-resilient living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Do rooftop gardens provide habitat for birds?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens can provide limited habitat for small birds by offering shelter, food sources, and resting spaces."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and climate-resilient living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is it possible to grow medicinal plants in a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, medicinal plants such as basil (tulsi), aloe vera, neem, and mint can be easily cultivated in rooftop gardens."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and climate-resilient living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How does rooftop gardening help with water management?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rooftop gardens help with water management by retaining rainwater in the soil and promoting evaporation, which lowers overall temperature and reduces runoff."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and climate-resilient living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can rooftop gardening ensure toxin-free food production?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardening allows the use of organic fertilizers and safe cultivation practices, ensuring the production of chemical-free and healthy food."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and climate-resilient living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Does rooftop gardening promote social harmony?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardening promotes social harmony by encouraging the sharing of fruits, vegetables, and gardening experiences with neighbors."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and climate-resilient living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can a rooftop garden serve as a food source during emergencies?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens can be a valuable source of food during emergencies by providing fresh, home-grown produce in times of crisis."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and climate-resilient living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Do rooftop gardens contribute to building sustainable cities?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, rooftop gardens support the development of sustainable cities by improving green cover, food resilience, and environmental balance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and climate-resilient living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What should be checked first before starting a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Before starting a rooftop garden, the load-bearing capacity and overall safety of the roof should be assessed."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and climate-resilient living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How can I determine whether my roof can support the weight of a garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "You should consult a qualified civil or structural engineer to assess whether the roof can safely support the weight of plants and containers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and climate-resilient living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is having proper drainage on the roof mandatory for rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, proper drainage is essential to ensure quick removal of excess water and to prevent waterlogging and structural damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, urban agriculture, and climate-resilient living in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can a rooftop garden be started if there are cracks or leaks in the roof?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, any cracks or leaks must be repaired before starting a rooftop garden, otherwise water leakage and structural damage may worsen."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, building safety, and urban agriculture in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What problems can occur if the roof remains wet or damp?"
+      },
+      {
+        "role": "assistant",
+        "content": "If the roof remains wet or damp, it can cause structural damage, water accumulation, leakage, and may eventually harm or destroy rooftop plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, building safety, and urban agriculture in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Why is planning important before starting a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "A rooftop garden plan helps determine plant placement, number of pots, and space usage, making maintenance easier and the garden more organized."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, building safety, and urban agriculture in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where should large or heavy plants be placed on a rooftop?"
+      },
+      {
+        "role": "assistant",
+        "content": "Large or heavy plants should be placed near structural beams or columns, where the roof can safely bear more weight."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, building safety, and urban agriculture in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where is the best location for smaller plants on a rooftop?"
+      },
+      {
+        "role": "assistant",
+        "content": "Smaller and lighter plants can be placed in the middle or less load-bearing areas of the roof."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, building safety, and urban agriculture in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is designing a rooftop garden mandatory?"
+      },
+      {
+        "role": "assistant",
+        "content": "Designing a rooftop garden is not mandatory, but a proper design improves beauty, organization, and ease of management."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, building safety, and urban agriculture in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can a permanent concrete bed be constructed on a roof for gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, a concrete bed can be constructed on a roof, but the bottom must be hollow and proper waterproofing is essential to prevent leakage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, building safety, and urban agriculture in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What materials are commonly used to make a rooftop garden bed?"
+      },
+      {
+        "role": "assistant",
+        "content": "Common materials include bricks, sand, and cement, but the roof surface must be well-protected with waterproofing layers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, building safety, and urban agriculture in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is it effective to use a cut or half drum for planting on rooftops?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, half drums are very effective for rooftop gardening and are commonly used for growing vegetables and small fruit trees."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, building safety, and urban agriculture in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Are plastic tubs suitable for rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, plastic tubs are suitable because they are lightweight, affordable, and easy to move around the roof."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, building safety, and urban agriculture in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is it safe to use earthen pots on rooftops?"
+      },
+      {
+        "role": "assistant",
+        "content": "Earthen pots are safe to use, but they are heavy, so they should be placed close to beams or load-bearing areas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant specialized in rooftop gardening, building safety, and urban agriculture in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can grow bags be used in rooftop gardens?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, grow bags are very effective for rooftop gardens because they are lightweight, affordable, and suitable for various crops."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What problems occur if water accumulates in a planting tub?"
+      },
+      {
+        "role": "assistant",
+        "content": "If water accumulates in a tub, it can cause root rot. Rotten roots prevent the plant from absorbing nutrients, which may eventually kill the tree."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Why is a drainage hole necessary in rooftop garden tubs or pots?"
+      },
+      {
+        "role": "assistant",
+        "content": "A drainage hole is necessary to allow excess water to drain out, preventing waterlogging and protecting plant roots from rotting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Does rooftop gardening require a large amount of space?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, rooftop gardening does not require a large space. It can be done successfully even on a small rooftop using tubs, pots, or grow bags."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is it possible to maintain a rooftop garden without direct sunlight?"
+      },
+      {
+        "role": "assistant",
+        "content": "Some plants can survive with 3-4 hours of sunlight, but for healthy growth and good yield, 5-6 hours of sunlight is more suitable."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What problems can strong winds cause in rooftop gardens?"
+      },
+      {
+        "role": "assistant",
+        "content": "Strong winds can damage or break tall plants and trees. Providing proper support or staking is necessary to protect plants from wind damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can shade nets be used in rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, shade nets can be used on rooftops. A 50% shade net is especially effective during summer to protect plants from excessive heat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which roof direction is best for rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "South-facing or east-facing roofs are best for rooftop gardening because they receive more sunlight throughout the day."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can artificial grass be used on rooftops?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, artificial grass can be used on rooftops for decoration, but it should not be placed under trees or plant containers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What happens if excess water spreads across the rooftop?"
+      },
+      {
+        "role": "assistant",
+        "content": "Excess water on the rooftop can cause dampness, increase the risk of leakage, and negatively affect both the roof structure and plants."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is continuous watering required on a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, constant watering is not needed. Water should be applied only according to the plants' requirements."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Does the monsoon season damage rooftop gardens?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rooftop gardens can be affected during the monsoon if drainage is poor. Keeping drainage systems clean helps prevent damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is it safe to place trees at the edge of a rooftop?"
+      },
+      {
+        "role": "assistant",
+        "content": "Only light or small plants should be placed near the roof edge. Heavy trees should be avoided there for safety reasons."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is there a risk of fire in having a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, rooftop gardens actually help reduce heat and lower fire risk by creating a green, cooler environment."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Which containers are suitable for a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Plastic tubs, grow bags, and drums are the best containers for rooftop gardening, as they are durable, lightweight, and easy to move."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What tools are essential for maintaining a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Essential tools include a spade, secateurs, scissors, a watering can, and a hoe. These help with planting, pruning, and soil maintenance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Do I need a spray machine for my rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, a spray machine is recommended for effective pest control and applying fertilizers or plant protection solutions."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can trays be used in a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, trays are very useful, especially for growing leafy vegetables, coriander, and onion greens. They save space and make harvesting easier."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can I get soil suitable for rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "You can obtain rooftop soil from nurseries or local soil vendors. Make sure it is clean, well-drained, and suitable for container planting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How should the soil be prepared for a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mix loamy soil, compost, and sand in a 1:1:1 ratio to ensure proper drainage, fertility, and aeration for healthy plant growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is compost necessary in rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, compost is essential. It provides nutrients for organic and chemical-free plant growth and improves soil structure."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can cow dung fertilizer be used safely in rooftop gardens?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, well-rotted cow dung is safe to use. It enriches the soil with nutrients and improves its texture for better plant growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Why are brick chips used at the bottom of rooftop garden tubs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Brick chips improve drainage under the tub, preventing waterlogging and protecting plant roots from rotting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is plastic sheeting necessary to make a bed on the roof?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, plastic sheeting is recommended for waterproofing the bed and protecting the roof from water damage."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can cocopeat be used in rooftop gardening?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, cocopeat is very effective. It is lightweight and retains water well, making it ideal for container and rooftop gardening."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "What materials are needed to tie and support trees on the roof?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rope, bamboo sticks, and support stakes are used to tie trees and keep them upright, especially during high winds."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Why is lime added to the rooftop garden soil or tubs?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lime helps reduce soil acidity, improving nutrient availability and promoting healthy plant growth."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is neem oil necessary for rooftop gardens?"
+      },
+      {
+        "role": "assistant",
+        "content": "While not mandatory, neem oil is very effective in controlling insects and pests naturally, making it a valuable addition for rooftop gardens."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Are yellow sticky traps needed in a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, yellow sticky traps help catch pests like whiteflies and reduce insect damage in the garden."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Is a water conservation system necessary for a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "It is recommended. You can use a water barrel or tank to store and manage water efficiently for irrigation."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Can drip irrigation be used in rooftop gardens?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yes, drip irrigation is the most efficient method for watering plants on a rooftop, conserving water while keeping plants healthy."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Where can roofing and gardening materials be found?"
+      },
+      {
+        "role": "assistant",
+        "content": "Materials for rooftop gardens can be found on e-commerce platforms like Dr. Chashi or at local nurseries and hardware stores."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How do I select seedlings for a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Choose disease-free, strong, and healthy seedlings. Ensure they are well-developed and suitable for container or rooftop planting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "How should I start growing plants from seeds on a rooftop?"
+      },
+      {
+        "role": "assistant",
+        "content": "First, prepare seedlings in a seed tray, small tub, or nursery bed. Provide adequate light, water, and care until they are ready for transplanting into larger containers."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "You are an AI assistant that provides accurate and practical guidance on rooftop gardening and plant care in Bangladesh."
+      },
+      {
+        "role": "user",
+        "content": "Why are pruning shears necessary in a rooftop garden?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pruning shears are needed to trim branches and leaves, remove dead growth, and maintain plant shape for healthy growth and productivity."
+      }
+    ]
+  }
+]
+
+

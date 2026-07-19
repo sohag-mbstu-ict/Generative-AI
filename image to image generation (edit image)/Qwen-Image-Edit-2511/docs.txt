@@ -1,0 +1,125 @@
+download qwen3:4b
+2. ollama pull qwen3:4b
+
+3. ollama list
+4. apt update && apt install -y sqlite3
+
+-----------------------------------------------------------------------------------------
+
+✅ STEP 1: Install uv (Official method)
+Run this in terminal:
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+
+✅ STEP 2: Add to PATH
+Ubuntu does NOT automatically add ~/.local/bin to PATH in a new install.
+Run:
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+
+
+
+---------------------------------------
+uv init .
+uv venv --python 3.12.12
+source .venv/bin/activate
+now check  python --version
+
+(workspace) root@cff29da656e1:/workspace# nvcc --version
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2024 NVIDIA Corporation
+Built on Thu_Mar_28_02:18:24_PDT_2024
+Cuda compilation tools, release 12.4, V12.4.131
+Build cuda_12.4.r12.4/compiler.34097967_0
+Run
+uv pip install torch torchvision torchaudio \
+--index-url https://download.pytorch.org/whl/cu124
+
+# How big is the model on disk?
+du -sh /workspace/Qwen_Image_Edit/pretrained_model
+
+ls -lh /workspace/Qwen_Image_Edit/pretrained_model
+find /workspace/Qwen_Image_Edit/pretrained_model -name "*.safetensors" -exec ls -lh {} \;
+
+https://github.com/character-ai/Ovi/tree/main
+uv pip install \
+  torch==2.6.0+cu124 \
+  torchvision==0.21.0+cu124 \
+  torchaudio==2.6.0+cu124 \
+  --index-url https://download.pytorch.org/whl/cu124
+uv pip show torch torchvision torchaudio flash-attn
+uv pip install setuptools
+uv pip install -r requirements.txt --no-build-isolation --no-deps
+uv pip install flash-attn --no-build-isolation --no-deps
+uv pip install "antlr4-python3-runtime==4.9.3" --no-build-isolation --no-deps
+uv pip install  "omegaconf==2.3.0" --no-build-isolation --no-deps
+uv pip install huggingface-hub --no-build-isolation --no-deps
+uv add  httpx httpcore anyio sniffio huggingface_hub proglog decorator python-dateutil pydub
+uv pip install torchvision torchaudio --no-build-isolation --no-deps
+uv pip install einops pyyaml --no-build-isolation --no-deps
+uv add einops httpcore httpx zipp
+uv add flash_attn --no-build-isolation
+
+uv run download_weights.py \
+    --output-dir /workspace/image_to_video/OVI/pretrained_model \
+    --models 720x720_5s 960x960_5s 960x960_10s
+
+python inference.py \
+  --config-file ovi/configs/inference/inference_fusion.yaml
+
+multi GPU inference
+torchrun \
+  --nnodes 1 \
+  --nproc_per_node 2 \
+  inference.py \
+  --config-file ovi/configs/inference/inference_fusion.yaml
+
+
+pip list | grep nvidia
+uv pip list | grep torch
+python -c "import torch; print(torch.__version__); print(torch.version.cuda)"
+2.12.0+cu130
+13.0
+------------------------------------------------------------
+python -c "
+import transformers,tokenizers,diffusers
+print('transformers:',transformers.__version__)
+print('tokenizers:',tokenizers.__version__)
+print('diffusers:',diffusers.__version__)
+"
+transformers: 4.51.3
+tokenizers: 0.21.4
+diffusers: 0.38.0
+
+uv pip install \
+torch \
+torchvision \
+torchaudio \
+--index-url https://download.pytorch.org/whl/cu124
+
+
+python -c "
+import torch
+print(torch.__version__)
+print(torch.cuda.get_arch_list())
+"
+2.6.0+cu124
+['sm_50', 'sm_60', 'sm_70', 'sm_75', 'sm_80', 'sm_86', 'sm_90']
+
+uv pip install --pre torch --index-url https://download.pytorch.org/whl/nightly/cu128
+uv pip install --pre torch --index-url https://download.pytorch.org/whl/nightly/cu128
+uv pip install --pre torch --index-url https://download.pytorch.org/whl/nightly/cu128
+uv pip install torchvision torchaudio --no-build-isolation --no-deps
+python -c "
+import torch
+import torchvision
+import torchaudio
+
+print('torch      :', torch.__version__)
+print('torchvision:', torchvision.__version__)
+print('torchaudio :', torchaudio.__version__)
+"
+
+
+accelerate launch train_full_qwen_edit.py --config ./train_configs/train_full_qwen_edit.yaml
+accelerate launch train_qwen_edit_lora.py --config ./train_configs/train_lora_qwen_edit.yaml
