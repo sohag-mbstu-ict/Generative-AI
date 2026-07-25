@@ -1,0 +1,92 @@
+-----------------------------------------------------------------------------------------
+
+✅ STEP 1: Install uv (Official method)
+Run this in terminal:
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+
+✅ STEP 2: Add to PATH
+Ubuntu does NOT automatically add ~/.local/bin to PATH in a new install.
+Run:
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+
+
+
+---------------------------------------------------------------------------------
+uv init .
+uv venv --python 3.12.12
+source .venv/bin/activate
+now check  python --version
+
+---------------------------------------------------------------------------------
+# Install CUDA 13 toolkit.
+apt-cache search cuda-toolkit | grep 13
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-keyring_1.1-1_all.deb
+dpkg -i cuda-keyring_1.1-1_all.deb
+apt update
+apt-cache madison cuda-toolkit
+apt install cuda-toolkit-13-0
+
+nvcc --version
+python -c "
+import torch
+print(torch.__version__)
+print(torch.cuda.get_arch_list())
+import transformers,tokenizers,diffusers
+print('transformers:',transformers.__version__)
+print('tokenizers:',tokenizers.__version__)
+print('diffusers:',diffusers.__version__)
+import torch,torchvision,torchaudio
+print('torch      :', torch.__version__)
+print('torchvision:', torchvision.__version__)
+print('torchaudio :', torchaudio.__version__)
+"
+
+python -c "
+import torch
+print(torch.__version__)
+print(torch.cuda.get_arch_list())
+"
+2.6.0+cu124
+['sm_50', 'sm_60', 'sm_70', 'sm_75', 'sm_80', 'sm_86', 'sm_90']
+
+
+
+---------------------------------------------------------------------------------
+# Install PyTorch(Stable recommended) CUDA 13.0
+uv pip install torch --index-url https://download.pytorch.org/whl/cu130
+uv pip install torchvision torchaudio \
+    --index-url https://download.pytorch.org/whl/cu130
+uv pip list | grep torch
+
+
+---------------------------------------------------------------------------------
+# How big is the model on disk?
+du -sh /workspace/Qwen_Image_Edit/pretrained_model
+
+ls -lh /workspace/Qwen_Image_Edit/pretrained_model
+find /workspace/Qwen_Image_Edit/pretrained_model -name "*.safetensors" -exec ls -lh {} \;
+
+# check gpu usage
+nvidia-smi -l 1
+watch -n 1 free -h
+watch -n 1 nvidia-smi
+
+pip list | grep nvidia
+uv pip list | grep torch
+------------------------------------------------------------
+
+
+# Dataset Chek
+ls /workspace/flymyai-lora-trainer/dataset/images | head
+ls /workspace/flymyai-lora-trainer/dataset/control_images | head
+ls /workspace/flymyai-lora-trainer/dataset/images | wc -l
+ls /workspace/flymyai-lora-trainer/dataset/control_images | wc -l
+grep -n "png" image_datasets/control_dataset.py
+
+Bash
+export WANDB_API_KEY="your_actual_api_key_here"
+
+accelerate launch train_qwen_edit_lora.py --config ./train_configs/train_lora_qwen_edit.yaml
+accelerate launch --mixed_precision bf16 train_qwen_edit_lora.py --config ./train_configs/train_lora_qwen_edit.yaml

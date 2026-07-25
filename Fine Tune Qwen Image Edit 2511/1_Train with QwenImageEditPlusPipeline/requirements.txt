@@ -1,0 +1,26 @@
+matplotlib-inline==0.1.7
+torch==2.4.1+cu124
+torchaudio==2.4.1+cu124
+torchvision==0.19.1+cu124
+
+
+uv pip install \
+accelerate \
+deepspeed \
+einops \
+huggingface-hub \
+optimum-quanto \
+datasets \
+omegaconf \
+sentencepiece \
+opencv-python \
+matplotlib \
+onnxruntime \
+peft \
+timm \
+qwen_vl_utils \
+bitsandbytes \
+loguru
+
+uv pip install transformers -U
+uv pip install git+https://github.com/huggingface/diffusers
